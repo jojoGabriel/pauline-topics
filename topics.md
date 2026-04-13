@@ -1,5 +1,8 @@
 # Pauline Topics Registry
 
+`topics.md` is the canonical master list for all topic names and global topic IDs.
+Use volume planning files only to determine generation order for a specific volume.
+
 ## Core Salvation & Theology (1–25)
 
 - [ ] PT-01 Justification by Faith
@@ -30,8 +33,8 @@
 
 ## Sin, Law, and Human Condition (26–45)
 
-- [ ] PT-26 Sin
-- [ ] PT-27 Death (as consequence of sin)
+- [x] PT-26 Sin
+- [x] PT-27 Death (as consequence of sin)
 - [ ] PT-28 Condemnation
 - [ ] PT-29 The Flesh
 - [ ] PT-30 Flesh vs Spirit

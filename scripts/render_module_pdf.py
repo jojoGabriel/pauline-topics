@@ -31,6 +31,8 @@ def strip_html_comments(text: str) -> str:
 
 
 def escape_markdown_to_html(text: str) -> str:
+    # Keep the visible label from markdown links while omitting URLs in print output.
+    text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
     text = html.escape(text.strip())
     text = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", text)
     text = re.sub(r"\*(.+?)\*", r"<i>\1</i>", text)
