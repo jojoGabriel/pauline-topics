@@ -1,0 +1,64 @@
+# Manual Review Checklist
+
+Use this after the automated validators pass.
+
+The scripts are designed to catch structural, formatting, overlap, and consistency problems. They do not replace human judgment about quality, clarity, or teaching value.
+
+## Highest-Priority Review
+
+- Check the teaching flow:
+  Does the module move clearly from problem to provision to response to outcome?
+
+- Check adjacent-topic distinctiveness:
+  Read neighboring modules together and confirm they genuinely feel different in center of gravity, not just in wording.
+
+- Check the key verse choice:
+  Is the selected key verse the best anchor for the topic, or merely a valid supporting verse?
+
+- Check passage weight:
+  Are the cited passages central to Paul’s treatment of the topic, not just loosely related?
+
+- Check discussion usefulness:
+  Would the questions lead to a strong 30–45 minute study, not just technically valid answers?
+
+## Clarity and Readability
+
+- Read the definition and summary out loud.
+  Do they sound natural, clear, and teachable?
+
+- Check for repetition:
+  Does the module keep saying the same thing with slightly different wording?
+
+- Check for abstraction:
+  Is the prose concrete enough for a reader to follow without specialized background?
+
+- Check audience fit:
+  Would a thoughtful non-specialist be able to understand and use this module?
+
+## Cross-Module Editorial Review
+
+- Compare shared texts across modules:
+  When the same verse appears in more than one module, does each module use it with a clearly different angle?
+
+- Check volume pacing:
+  Does the current set of modules build in a sensible order for a learner?
+
+- Check explanation redundancy:
+  Even if wording differs, are multiple modules reteaching the same conceptual material?
+
+## Section-Specific Review
+
+- `## 5. Illustration / Example`
+  Is this really functioning as an illustration or example, rather than just another supporting proof text?
+
+- `## 9–11. Questions`
+  Do the questions progress naturally from observation to reflection to application?
+
+- `## 12. Broader Scripture Connections (Optional)`
+  If present, are the references genuinely illuminating and not distracting or excessive?
+
+## Final Editorial Pass
+
+- Skim the module visually for density, line length, and readability.
+- Confirm the tone is calm, precise, and non-speculative.
+- Confirm the module feels ready for real use, not just technically complete.
