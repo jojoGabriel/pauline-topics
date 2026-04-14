@@ -162,6 +162,8 @@ Each module MUST follow this exact structure:
 - Must be text-based
 - Must be clear and direct
 - Avoid speculation
+- Keep observation questions explicitly tied to cited passages
+- Avoid duplicate questions across observation, reflection, and application sections
 
 ---
 
@@ -232,6 +234,7 @@ After generating or revising a topic module:
 - use `Volume1_Topics_FINAL.md` to determine which topic comes next when working through Volume 1
 - validate the `## 1. Definition` section with `python3 scripts/check_definitions.py` before considering the module complete
 - validate `## 7. Summary` alignment with `python3 scripts/check_summaries.py` before considering the module complete
+- validate question structure and clarity with `python3 scripts/check_questions.py` before considering the module complete
 - review cross-module overlap with `python3 scripts/check_topic_overlap.py` before considering the module complete
 - validate all quote metadata and quoted text against the BSB source before considering the module complete
 - when possible, prefer the one-command check `python3 scripts/validate_module_set.py modules --bsb-json bsb_usj`

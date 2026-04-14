@@ -276,5 +276,6 @@ Before finalizing a topic, ask:
 7. Is the module using shared texts with a distinct angle, or just repeating another topic?
 8. Does the summary restate this topic’s main point before moving to causes, results, or neighboring themes?
 9. Does the module still look distinct after checking summary drift and overlap against other modules?
+10. Are the observation, reflection, and application questions distinct, text-based, and free from speculation?
 
-Use `python3 scripts/validate_module_set.py modules --bsb-json bsb_usj` as the preferred post-draft check, or run `python3 scripts/check_definitions.py`, `python3 scripts/check_summaries.py`, and `python3 scripts/check_topic_overlap.py` individually when needed.
+Use `python3 scripts/validate_module_set.py modules --bsb-json bsb_usj` as the preferred post-draft check, or run `python3 scripts/check_definitions.py`, `python3 scripts/check_summaries.py`, `python3 scripts/check_questions.py`, and `python3 scripts/check_topic_overlap.py` individually when needed.

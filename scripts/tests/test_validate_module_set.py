@@ -17,69 +17,89 @@ def write_module(path: Path, title: str, definition: str, summary: str, quote_te
     path.write_text(
         textwrap.dedent(
             f"""\
-            ---
-            module_id: PTXX
-            title: {title}
-            author_scope: Pauline only
-            text_basis: BSB
-            status: draft
-            validation_status: draft
-            ---
+---
+module_id: PTXX
+title: {title}
+author_scope: Pauline only
+text_basis: BSB
+status: draft
+validation_status: draft
+---
 
-            # {title}
-            **Paul’s Teachings by Topic**
-            **Volume 1: Salvation and Foundations**
-            **A Structured Topical Study from the Letters of Paul the Apostle Using Selected Passages**
-            **Text Basis:** Berean Standard Bible (BSB)
+# {title}
+**Paul’s Teachings by Topic**
+**Volume 1: Salvation and Foundations**
+**A Structured Topical Study from the Letters of Paul the Apostle Using Selected Passages**
+**Text Basis:** Berean Standard Bible (BSB)
 
-            ---
+---
 
-            ## 1. Definition
+## 1. Definition
 
-            {definition}
+{definition}
 
-            ---
+---
 
-            ## 2. The Problem / Context
+## 2. The Problem / Context
 
-            <!--
-            id: PTXX-Q1
-            reference: Romans 3:23
-            source: BSB
-            source_url: https://biblehub.com/bsb/romans/3.htm
-            type: exact
-            ellipsis_allowed: false
-            -->
+<!--
+id: PTXX-Q1
+reference: Romans 3:23
+source: BSB
+source_url: https://biblehub.com/bsb/romans/3.htm
+type: exact
+ellipsis_allowed: false
+-->
 
-            > "{quote_text}"
-            >
-            > *(Romans 3:23)*
-            > [View on Bible Hub](https://biblehub.com/bsb/romans/3.htm)
+> "{quote_text}"
+>
+> *(Romans 3:23)*
+> [View on Bible Hub](https://biblehub.com/bsb/romans/3.htm)
 
-            ---
+---
 
-            ## 7. Summary
+## 7. Summary
 
-            {summary}
+{summary}
 
-            ---
+---
 
-            ## 8. Key Verse
+## 8. Key Verse
 
-            <!--
-            id: PTXX-Q2
-            reference: Romans 3:23
-            source: BSB
-            source_url: https://biblehub.com/bsb/romans/3.htm
-            type: exact
-            ellipsis_allowed: false
-            -->
+<!--
+id: PTXX-Q2
+reference: Romans 3:23
+source: BSB
+source_url: https://biblehub.com/bsb/romans/3.htm
+type: exact
+ellipsis_allowed: false
+-->
 
-            > "For all have sinned and fall short of the glory of God."
-            >
-            > *(Romans 3:23)*
-            > [View on Bible Hub](https://biblehub.com/bsb/romans/3.htm)
-            """
+> "For all have sinned and fall short of the glory of God."
+>
+> *(Romans 3:23)*
+> [View on Bible Hub](https://biblehub.com/bsb/romans/3.htm)
+
+---
+
+## 9. Observation Questions
+
+1. According to [Romans 3:23](https://biblehub.com/bsb/romans/3.htm), what problem do all people share?
+2. What does [Romans 3:23](https://biblehub.com/bsb/romans/3.htm) say about human need?
+
+---
+
+## 10. Reflection Questions
+
+1. Why does this truth matter for understanding the topic?
+2. What stands out to you most here?
+
+---
+
+## 11. Application Questions
+
+1. How should this truth shape the way you live?
+"""
         ),
         encoding="utf-8",
     )
@@ -92,7 +112,7 @@ class ValidateModuleSetTests(unittest.TestCase):
         )
         commands = MODULE.build_commands(args)
 
-        self.assertEqual(len(commands), 4)
+        self.assertEqual(len(commands), 5)
         self.assertEqual(commands[0][0], "Quote validation")
         self.assertIn("--bsb-json", commands[0][1])
         self.assertIn("bsb_usj", commands[0][1])
@@ -100,6 +120,7 @@ class ValidateModuleSetTests(unittest.TestCase):
         self.assertIn("--strict", commands[1][1])
         self.assertIn("--strict", commands[2][1])
         self.assertIn("--strict", commands[3][1])
+        self.assertIn("--strict", commands[4][1])
 
     def test_cli_runs_all_checks_with_local_bsb_source(self):
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -127,6 +148,7 @@ class ValidateModuleSetTests(unittest.TestCase):
             self.assertIn("== Quote validation ==", completed.stdout)
             self.assertIn("== Definition validation ==", completed.stdout)
             self.assertIn("== Summary validation ==", completed.stdout)
+            self.assertIn("== Question validation ==", completed.stdout)
             self.assertIn("== Overlap validation ==", completed.stdout)
 
 

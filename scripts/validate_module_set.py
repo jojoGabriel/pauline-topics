@@ -58,6 +58,11 @@ def build_commands(args: argparse.Namespace) -> List[Tuple[str, List[str]]]:
         summary_cmd.append("--strict")
     commands.append(("Summary validation", summary_cmd))
 
+    question_cmd = [sys.executable, str(SCRIPT_DIR / "check_questions.py"), args.path]
+    if args.strict:
+        question_cmd.append("--strict")
+    commands.append(("Question validation", question_cmd))
+
     overlap_cmd = [sys.executable, str(SCRIPT_DIR / "check_topic_overlap.py"), args.path]
     if args.strict:
         overlap_cmd.append("--strict")
