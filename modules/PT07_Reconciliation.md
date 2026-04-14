@@ -209,5 +209,5 @@ ellipsis_allowed: false
 
 ## 11. Application Questions
 
-1. How should reconciliation with God shape your peace and gratitude?
-2. How should this truth influence the way you pursue peace with others?
+1. How should reconciliation with God shape the way you think about your relationship to Him?
+2. Where do you most need to remember that God has acted in Christ to bring enemies back to Himself?

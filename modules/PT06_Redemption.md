@@ -203,12 +203,12 @@ ellipsis_allowed: false
 ## 10. Reflection Questions
 
 1. Why is it important that redemption is tied to Christ’s blood rather than human effort?
-2. What stands out to you about redemption including both forgiveness and future hope?
+2. What stands out to you about redemption including both present deliverance and future completion?
 3. How does redemption change the way you think about belonging to God?
 
 ---
 
 ## 11. Application Questions
 
-1. How should redemption shape your response to guilt from past sin?
+1. How should redemption shape the way you think about Christ’s deliverance from bondage?
 2. How should the hope of final redemption shape your endurance in the present?

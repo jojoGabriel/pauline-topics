@@ -211,4 +211,4 @@ ellipsis_allowed: false
 ## 11. Application Questions
 
 1. How should peace with God shape your confidence in approaching Him?
-2. How should receiving peace from God affect the way you pursue peace with others?
+2. Where do you most need to rest in the settled peace believers now have before God through Christ?

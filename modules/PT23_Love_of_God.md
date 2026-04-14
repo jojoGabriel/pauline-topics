@@ -225,4 +225,4 @@ ellipsis_allowed: false
 ## 11. Application Questions
 
 1. How should the love of God shape the way you view your security in Christ?
-2. How should God’s love shape the way you walk in love toward others?
+2. Where do you most need to rest more fully in the security of God’s love in Christ?
