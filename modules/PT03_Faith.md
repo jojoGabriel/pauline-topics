@@ -50,7 +50,7 @@ ellipsis_allowed: true
 -->
 
 > “The Gentiles, who did not pursue righteousness, have obtained it, a righteousness that is by faith…
-> their pursuit was not by faith, but as if it were by works.”
+> their pursuit was not by faith, but as if it were by works.” [it is not clear who is they]
 >
 > *(Romans 9:30–32)*  
 > [View on Bible Hub](https://biblehub.com/bsb/romans/9.htm)
