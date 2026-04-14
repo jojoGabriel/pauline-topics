@@ -127,21 +127,21 @@ ellipsis_allowed: false
 
 ## 5. Illustration / Example
 
-Abraham illustrates faith in God’s promise.
+Paul’s own confidence in Christ illustrates faith.
 
 <!--
 id: PT03-Q7
-reference: Romans 4:20-21
+reference: 2 Timothy 1:12
 source: BSB
-source_url: https://biblehub.com/bsb/romans/4.htm
+source_url: https://biblehub.com/bsb/2_timothy/1.htm
 type: exact
 ellipsis_allowed: false
 -->
 
-> “Yet he did not waver through disbelief in the promise of God, but was strengthened in his faith and gave glory to God, being fully persuaded that God was able to do what He had promised.”
+> “For this reason, even though I suffer as I do, I am not ashamed; for I know whom I have believed, and I am convinced that He is able to guard what I have entrusted to Him for that day.”
 >
-> *(Romans 4:20–21)*  
-> [View on Bible Hub](https://biblehub.com/bsb/romans/4.htm)
+> *(2 Timothy 1:12)*  
+> [View on Bible Hub](https://biblehub.com/bsb/2_timothy/1.htm)
 
 <!--
 id: PT03-Q8
@@ -183,7 +183,7 @@ ellipsis_allowed: false
 
 Paul teaches that faith receives what works cannot attain.  
 Through faith, people trust God’s promise, receive what He gives, and continue to live in Christ.  
-Abraham shows what faith looks like: trusting God’s word and being strengthened in that trust.  
+Paul’s own confidence in Christ shows what such faith looks like in lived experience.  
 Believers therefore live by faith in the Son of God.
 
 ---
@@ -210,7 +210,7 @@ ellipsis_allowed: false
 
 1. According to [Romans 1:16–17](https://biblehub.com/bsb/romans/1.htm), what does the gospel reveal and how is it received?
 2. What do [Romans 4:16](https://biblehub.com/bsb/romans/4.htm) and [Ephesians 2:8](https://biblehub.com/bsb/ephesians/2.htm) show about faith and promise?
-3. How does Abraham’s example in [Romans 4:20–21](https://biblehub.com/bsb/romans/4.htm) and [Galatians 3:6–7](https://biblehub.com/bsb/galatians/3.htm) clarify faith?
+3. How do [2 Timothy 1:12](https://biblehub.com/bsb/2_timothy/1.htm) and [Galatians 3:6–7](https://biblehub.com/bsb/galatians/3.htm) clarify what faith looks like?
 
 ---
 

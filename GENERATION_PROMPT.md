@@ -164,6 +164,7 @@ Each module MUST follow this exact structure:
 - Avoid speculation
 - Keep observation questions explicitly tied to cited passages
 - Avoid duplicate questions across observation, reflection, and application sections
+- Keep each question anchored to the module’s own center of gravity rather than drifting into a neighboring topic
 
 ---
 
