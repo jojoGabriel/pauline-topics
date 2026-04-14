@@ -17,7 +17,7 @@ validation_status: validated
 
 ## 1. Definition
 
-Righteousness refers to **righteousness (right standing before God)**.  
+Righteousness refers to **righteousness (right standing before God)**.  [what?]
 In Paul’s letters, human beings do not possess this righteousness by their own effort; God gives righteousness through faith in Christ.
 
 ---
