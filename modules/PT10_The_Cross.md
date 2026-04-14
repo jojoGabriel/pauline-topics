@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-The cross refers to the death of Jesus Christ and the saving meaning Paul assigns to it.  
-In Paul’s letters, the cross is central to the gospel, the defeat of sin, and the believer’s identity.
+Jesus Christ’s death as the decisive saving event through which evil is judged and believers are brought into a new way of life.  
+In Paul’s letters, this event stands at the center of God’s saving message and shapes the believer’s identity.
 
 ---
 
@@ -168,7 +168,7 @@ ellipsis_allowed: false
 
 Paul teaches that the cross stands at the center of the Christian message.  
 Though despised by the world, the cross is the power of God for those being saved.  
-Through the blood of Christ’s cross, God makes peace and reconciles sinners.  
+At the cross, God deals decisively with evil, disarms hostile powers, and works salvation through Christ’s death.  
 Believers therefore boast in the cross and live in its power.
 
 ---

@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-Death, in this topic, refers to death as the consequence of **sin (disobedience against God)**.  
-In Paul’s letters, death is the result of sin’s entrance and reign, standing in contrast to the life God gives in Christ.
+In this topic, death is the consequence that follows human rebellion against God.  
+In Paul’s letters, it appears as the result of Adam’s trespass and stands in contrast to the life God gives in Christ.
 
 ---
 
@@ -205,17 +205,17 @@ Believers are therefore to regard themselves as brought from death to life.
 
 <!--
 id: PT27-Q11
-reference: Romans 6:23
+reference: Romans 5:12
 source: BSB
-source_url: https://biblehub.com/bsb/romans/6.htm
+source_url: https://biblehub.com/bsb/romans/5.htm
 type: exact
 ellipsis_allowed: false
 -->
 
-> “For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.”
+> “Therefore, just as sin entered the world through one man, and death through sin, so also death was passed on to all men, because all sinned.”
 >
-> *(Romans 6:23)*  
-> [View on Bible Hub](https://biblehub.com/bsb/romans/6.htm)
+> *(Romans 5:12)*  
+> [View on Bible Hub](https://biblehub.com/bsb/romans/5.htm)
 
 ---
 

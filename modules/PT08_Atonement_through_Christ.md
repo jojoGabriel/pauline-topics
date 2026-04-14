@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-Atonement, in Paul’s teaching, refers to Christ’s dealing with sin so that sinners may be rightly related to God.  
-Paul locates this saving work in Christ’s blood, death, and offering for sin.
+Christ’s sacrificial dealing with human guilt so that sinners may be brought into a right relationship with God.  
+Paul locates this saving work in Christ’s blood, death, and offering for wrongdoing.
 
 ---
 
@@ -169,7 +169,7 @@ ellipsis_allowed: false
 Paul teaches that sin places people under guilt and wrath.  
 God answered this through Christ, whom He presented as an atoning sacrifice and offering for sin.  
 This work is received through faith in Christ’s blood.  
-Its result is justification, peace with God, and rescue from wrath.
+Through this sacrifice, guilt is addressed, wrath is answered, and sinners are brought into right relationship with God.
 
 ---
 

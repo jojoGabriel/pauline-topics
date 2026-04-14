@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-Faith refers to **faith (trust in God and in Jesus Christ)**.  
-In Paul’s letters, faith is the trusting response by which people receive God’s promise and continue to live in Christ.
+Trusting God’s promise in Christ and relying on Him rather than on human effort.  
+In Paul’s letters, this trust receives what God gives and continues as the way believers live.
 
 ---
 

@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-The gospel is the good news of what God has done in Jesus Christ for salvation.  
-In Paul’s letters, the gospel centers on Christ’s death, resurrection, and saving power for all who believe.
+The good news of what God has done in Jesus Christ for salvation.  
+In Paul’s letters, this message centers on Christ’s death, resurrection, and saving power for all who believe.
 
 ---
 

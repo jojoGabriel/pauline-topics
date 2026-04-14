@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-Condemnation refers to the guilty verdict and liability to judgment that comes because of **sin (disobedience against God)**.  
-In Paul’s letters, condemnation is tied to Adam’s trespass, human guilt, and God’s righteous judgment.
+The guilty verdict and liability to judgment that fall on people under God’s righteous sentence.  
+In Paul’s letters, this verdict is tied to Adam’s trespass, human guilt, and divine judgment.
 
 ---
 

@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-Mercy is God’s compassionate action toward those in misery and sin.  
-In Paul’s letters, mercy explains why salvation comes not from human effort but from God’s pity and purpose.
+God’s compassionate action toward people in misery, guilt, and helplessness.  
+In Paul’s letters, this compassion explains why salvation comes from God’s pity and purpose rather than human effort.
 
 ---
 
@@ -168,7 +168,7 @@ ellipsis_allowed: false
 ## 7. Summary
 
 Paul teaches that salvation rests not on human effort but on God’s mercy.  
-God is rich in mercy and shows mercy to the undeserving.  
+God is rich in mercy and acts with compassion toward the undeserving and helpless.  
 Paul’s own story displays this mercy vividly.  
 Those who receive mercy are called to grateful worship and obedient living.
 

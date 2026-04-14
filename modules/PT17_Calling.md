@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-Calling refers to God’s summons into salvation, holiness, and life in Christ.  
-In Paul’s letters, calling is rooted in God’s purpose and issues in a worthy walk.
+God’s summons that brings people into salvation, holiness, and life in Christ.  
+In Paul’s letters, this summons is rooted in God’s purpose and issues in a worthy walk.
 
 ---
 
@@ -182,7 +182,7 @@ ellipsis_allowed: true
 ## 7. Summary
 
 Paul teaches that calling is God’s gracious summons according to His purpose.  
-It comes through the gospel and brings people into belonging to Christ and fellowship with Him.  
+It brings people into belonging to Christ and fellowship with Him.  
 Those called are to walk worthy of that calling.  
 God’s calling leads to hope, holiness, and glory.
 

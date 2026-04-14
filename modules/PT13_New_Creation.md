@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-New creation refers to the new reality God brings about in those who are in Christ.  
-In Paul’s letters, this emphasizes the old passing away, the new self, and a transformed pattern of life.
+The new reality God brings about in those who belong to Christ.  
+In Paul’s letters, this reality means the old order has passed away and a transformed life has begun.
 
 ---
 

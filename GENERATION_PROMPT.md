@@ -165,7 +165,28 @@ Each module MUST follow this exact structure:
 
 ---
 
-### 10. Style Rules
+### 10. Definition Integrity Rule
+
+In `## 1. Definition`:
+
+- explain the topic without using the topic term itself as its own gloss
+- make the definition understandable even if the title were hidden
+- mention adjacent topics only as supporting vocabulary, not as the main explanatory dependency
+- avoid circular wording such as `Faith refers to faith` or `Grace means grace`
+
+---
+
+### 11. Summary Alignment Rule
+
+In `## 7. Summary`:
+
+- restate the module’s own center of gravity before naming causes, results, or adjacent topics
+- keep the summary aligned with the definition and key verse rather than shifting into a neighboring topic
+- you may mention major results or linked themes, but they should support the topic summary rather than replace it
+
+---
+
+### 12. Style Rules
 
 - No theological speculation beyond the text
 - No cross-author harmonization
@@ -175,7 +196,7 @@ Each module MUST follow this exact structure:
 
 ---
 
-### 11. Linking Rules
+### 13. Linking Rules
 
 Include links ONLY:
 
@@ -195,7 +216,7 @@ Question-section links rule:
 
 ---
 
-### 12. Output Format
+### 14. Output Format
 
 - Output must be valid Markdown (.md)
 - Clean and readable
@@ -203,20 +224,24 @@ Question-section links rule:
 
 ---
 
-### 13. Post-Generation Workflow (REQUIRED)
+### 15. Post-Generation Workflow (REQUIRED)
 
 After generating or revising a topic module:
 
 - confirm the topic ID and title against `topics.md` before creating files
 - use `Volume1_Topics_FINAL.md` to determine which topic comes next when working through Volume 1
+- validate the `## 1. Definition` section with `python3 scripts/check_definitions.py` before considering the module complete
+- validate `## 7. Summary` alignment with `python3 scripts/check_summaries.py` before considering the module complete
+- review cross-module overlap with `python3 scripts/check_topic_overlap.py` before considering the module complete
 - validate all quote metadata and quoted text against the BSB source before considering the module complete
+- when possible, prefer the one-command check `python3 scripts/validate_module_set.py modules --bsb-json bsb_usj`
 - fix any validation failures before final delivery
 - do not generate a PDF unless the user explicitly requests it
 - treat delivery as complete after validation unless the user also requests PDF output
 
 ---
 
-### 14. Header Lines (Required)
+### 16. Header Lines (Required)
 
 At the top, under the title, include these lines exactly:
 

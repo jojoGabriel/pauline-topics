@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-Forgiveness refers to God’s removal of guilt and trespass through Christ.  
-In Paul’s letters, forgiveness emphasizes the pardon of sins and the non-counting of trespasses, and it becomes a pattern for believers toward one another.
+God’s removal of guilt and trespass through Christ so that offenses are no longer counted against His people.  
+In Paul’s letters, this pardon is received from God and becomes a pattern for believers toward one another.
 
 ---
 
@@ -180,17 +180,17 @@ Those forgiven by God are called to extend forgiveness to others.
 
 <!--
 id: PT18-Q9
-reference: Ephesians 1:7
+reference: Colossians 2:13
 source: BSB
-source_url: https://biblehub.com/bsb/ephesians/1.htm
+source_url: https://biblehub.com/bsb/colossians/2.htm
 type: exact
 ellipsis_allowed: false
 -->
 
-> “In Him we have redemption through His blood, the forgiveness of our trespasses, according to the riches of His grace”
+> “When you were dead in your trespasses and in the uncircumcision of your sinful nature, God made you alive with Christ. He forgave us all our trespasses,”
 >
-> *(Ephesians 1:7)*  
-> [View on Bible Hub](https://biblehub.com/bsb/ephesians/1.htm)
+> *(Colossians 2:13)*  
+> [View on Bible Hub](https://biblehub.com/bsb/colossians/2.htm)
 
 ---
 

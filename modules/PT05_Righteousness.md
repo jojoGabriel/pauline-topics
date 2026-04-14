@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-Righteousness refers to **righteousness (right standing before God)**.  
-In Paul’s letters, righteousness is not achieved by human effort; it is God’s righteousness revealed and the right standing He gives through faith in Christ.
+The right standing before God that He reveals and gives, not a status people establish for themselves.  
+In Paul’s letters, this standing comes from God and is received by trusting Christ rather than by human effort.
 
 ---
 

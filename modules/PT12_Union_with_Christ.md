@@ -17,7 +17,7 @@ validation_status: validated
 
 ## 1. Definition
 
-Union with Christ refers to the believer’s shared participation and identity in Christ.  
+The believer’s shared participation and identity in Christ.  
 In Paul’s letters, believers are described as being in Christ, joined to His death and resurrection, and sharing His life.
 
 ---

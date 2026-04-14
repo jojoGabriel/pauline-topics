@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-Access to God refers to the open approach believers now have to the Father through Jesus Christ.  
-In Paul’s letters, this access is granted by Christ and enjoyed through faith and the Spirit.
+The freedom believers have to approach the Father openly and confidently through Christ and by the Spirit.  
+In Paul’s letters, those once far away are brought near and welcomed into God’s presence.
 
 ---
 

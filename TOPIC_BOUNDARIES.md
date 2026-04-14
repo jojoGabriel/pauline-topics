@@ -269,5 +269,12 @@ Before finalizing a topic, ask:
 
 1. What exact question is this module answering?
 2. If I removed the title, would the summary still clearly point to this topic and not its neighbor?
-3. Are the definition, summary, and key verse all pulling in the same direction?
-4. Is the module using shared texts with a distinct angle, or just repeating another topic?
+3. Does the definition avoid self-reference or circular wording?
+4. Does the definition avoid depending on another topic title for its main meaning?
+5. If another topic is mentioned in the definition, is the center of gravity still clearly this topic?
+6. Are the definition, summary, and key verse all pulling in the same direction?
+7. Is the module using shared texts with a distinct angle, or just repeating another topic?
+8. Does the summary restate this topic’s main point before moving to causes, results, or neighboring themes?
+9. Does the module still look distinct after checking summary drift and overlap against other modules?
+
+Use `python3 scripts/validate_module_set.py modules --bsb-json bsb_usj` as the preferred post-draft check, or run `python3 scripts/check_definitions.py`, `python3 scripts/check_summaries.py`, and `python3 scripts/check_topic_overlap.py` individually when needed.

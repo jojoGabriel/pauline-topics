@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-Reconciliation refers to restored peace and relationship with God through Christ.  
-In Paul’s letters, reconciliation addresses former hostility and brings believers into peace with God.
+The restoration of a broken relationship with God after hostility and alienation have been removed through Christ.  
+In Paul’s letters, God acts to bring former enemies back into His favor and fellowship.
 
 ---
 

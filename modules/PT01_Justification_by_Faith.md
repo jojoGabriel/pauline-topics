@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-Justification refers to being **justified (declared righteous before God)**.  
-Paul teaches that justification is God’s verdict over the sinner: this right standing before God is given by grace (God’s undeserved favor) and received through faith (trust in God and in Jesus Christ), not by works of the Law (the commandments given through Moses).
+A sinner’s right standing before God that comes from His verdict in Christ, received by trusting Him rather than by works of the Law.  
+Paul presents this as God’s act of declaring guilty people righteous on the basis of Christ’s work, not their own performance.
 
 ---
 

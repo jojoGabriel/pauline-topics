@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-Eternal life is the life God gives in Christ that overcomes death and belongs to the age to come.  
-In Paul’s letters, eternal life is both a promise and the believer’s future outcome in Christ.
+The life God gives in Christ that overcomes death and belongs to the age to come.  
+In Paul’s letters, this life is both a present promise and the believer’s future inheritance in Christ.
 
 ---
 
@@ -191,16 +191,16 @@ Eternal life is both promised future and certain outcome in Christ.
 
 <!--
 id: PT21-Q10
-reference: Romans 6:23
+reference: Romans 6:22
 source: BSB
 source_url: https://biblehub.com/bsb/romans/6.htm
 type: exact
 ellipsis_allowed: false
 -->
 
-> “For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.”
+> “But now that you have been set free from sin and have become slaves to God, the fruit you reap leads to holiness, and the outcome is eternal life.”
 >
-> *(Romans 6:23)*  
+> *(Romans 6:22)*  
 > [View on Bible Hub](https://biblehub.com/bsb/romans/6.htm)
 
 ---

@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-Sin refers to **sin (disobedience against God)**.  
-In Paul’s letters, sin is both a universal human condition and a ruling power that brings guilt, corruption, and death.
+Human rebellion against God in thought, desire, and action.  
+In Paul’s letters, this rebellion is both a universal condition and a ruling power that brings guilt, corruption, and death.
 
 ---
 
@@ -198,8 +198,8 @@ ellipsis_allowed: false
 
 Paul teaches that sin is universal and places all people under guilt and death.  
 Sin entered the world through one man and continues to operate as a power that deceives, enslaves, and produces death.  
-God dealt with sin through His Son, and believers are called not to let sin reign in them.  
-In Christ, sin is no longer the believer’s master.
+God addresses this rebellion through His Son and breaks its rule over those who belong to Christ.  
+Sin remains the enslaving power that brings guilt, corruption, and death wherever it reigns.
 
 ---
 
@@ -207,17 +207,17 @@ In Christ, sin is no longer the believer’s master.
 
 <!--
 id: PT26-Q11
-reference: Romans 6:23
+reference: Romans 3:23
 source: BSB
-source_url: https://biblehub.com/bsb/romans/6.htm
+source_url: https://biblehub.com/bsb/romans/3.htm
 type: exact
 ellipsis_allowed: false
 -->
 
-> “For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.”
+> “For all have sinned and fall short of the glory of God.”
 >
-> *(Romans 6:23)*  
-> [View on Bible Hub](https://biblehub.com/bsb/romans/6.htm)
+> *(Romans 3:23)*  
+> [View on Bible Hub](https://biblehub.com/bsb/romans/3.htm)
 
 ---
 

@@ -1,0 +1,134 @@
+import importlib.util
+import subprocess
+import tempfile
+import textwrap
+import unittest
+from pathlib import Path
+
+
+SCRIPT_PATH = Path(__file__).resolve().parents[1] / "validate_module_set.py"
+SPEC = importlib.util.spec_from_file_location("validate_module_set", SCRIPT_PATH)
+MODULE = importlib.util.module_from_spec(SPEC)
+assert SPEC.loader is not None
+SPEC.loader.exec_module(MODULE)
+
+
+def write_module(path: Path, title: str, definition: str, summary: str, quote_text: str = "For all have sinned and fall short of the glory of God.") -> None:
+    path.write_text(
+        textwrap.dedent(
+            f"""\
+            ---
+            module_id: PTXX
+            title: {title}
+            author_scope: Pauline only
+            text_basis: BSB
+            status: draft
+            validation_status: draft
+            ---
+
+            # {title}
+            **Paul’s Teachings by Topic**
+            **Volume 1: Salvation and Foundations**
+            **A Structured Topical Study from the Letters of Paul the Apostle Using Selected Passages**
+            **Text Basis:** Berean Standard Bible (BSB)
+
+            ---
+
+            ## 1. Definition
+
+            {definition}
+
+            ---
+
+            ## 2. The Problem / Context
+
+            <!--
+            id: PTXX-Q1
+            reference: Romans 3:23
+            source: BSB
+            source_url: https://biblehub.com/bsb/romans/3.htm
+            type: exact
+            ellipsis_allowed: false
+            -->
+
+            > "{quote_text}"
+            >
+            > *(Romans 3:23)*
+            > [View on Bible Hub](https://biblehub.com/bsb/romans/3.htm)
+
+            ---
+
+            ## 7. Summary
+
+            {summary}
+
+            ---
+
+            ## 8. Key Verse
+
+            <!--
+            id: PTXX-Q2
+            reference: Romans 3:23
+            source: BSB
+            source_url: https://biblehub.com/bsb/romans/3.htm
+            type: exact
+            ellipsis_allowed: false
+            -->
+
+            > "For all have sinned and fall short of the glory of God."
+            >
+            > *(Romans 3:23)*
+            > [View on Bible Hub](https://biblehub.com/bsb/romans/3.htm)
+            """
+        ),
+        encoding="utf-8",
+    )
+
+
+class ValidateModuleSetTests(unittest.TestCase):
+    def test_build_commands_passes_flags_through(self):
+        args = MODULE.build_parser().parse_args(
+            ["modules", "--bsb-json", "bsb_usj", "--strict", "--quote-verbose"]
+        )
+        commands = MODULE.build_commands(args)
+
+        self.assertEqual(len(commands), 4)
+        self.assertEqual(commands[0][0], "Quote validation")
+        self.assertIn("--bsb-json", commands[0][1])
+        self.assertIn("bsb_usj", commands[0][1])
+        self.assertIn("--verbose", commands[0][1])
+        self.assertIn("--strict", commands[1][1])
+        self.assertIn("--strict", commands[2][1])
+        self.assertIn("--strict", commands[3][1])
+
+    def test_cli_runs_all_checks_with_local_bsb_source(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            write_module(
+                Path(tmpdir) / "PT03_Faith.md",
+                "Faith",
+                "Trusting God's promise in Christ rather than human effort.",
+                "Faith receives what God promises and continues as the way believers live.",
+            )
+
+            completed = subprocess.run(
+                [
+                    "python3",
+                    str(SCRIPT_PATH),
+                    tmpdir,
+                    "--bsb-json",
+                    str(Path.cwd() / "bsb_usj"),
+                ],
+                capture_output=True,
+                text=True,
+                check=False,
+            )
+
+            self.assertEqual(completed.returncode, 0)
+            self.assertIn("== Quote validation ==", completed.stdout)
+            self.assertIn("== Definition validation ==", completed.stdout)
+            self.assertIn("== Summary validation ==", completed.stdout)
+            self.assertIn("== Overlap validation ==", completed.stdout)
+
+
+if __name__ == "__main__":
+    unittest.main()

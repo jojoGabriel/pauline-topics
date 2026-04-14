@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-Peace with God refers to the settled state of peace believers now have before God through Jesus Christ.  
-In Paul’s letters, this peace is the result of justification and the end of hostility through Christ.
+The settled end of hostility that believers now have before God through Jesus Christ.  
+In Paul’s letters, this standing before God comes through Christ’s work and marks the end of enmity.
 
 ---
 
@@ -168,7 +168,7 @@ ellipsis_allowed: false
 ## 7. Summary
 
 Paul teaches that people once stood as enemies and without peace before God.  
-Through justification in Christ, believers now have peace with God.  
+Through Christ’s work, believers now have peace with God.  
 Christ has made peace through His cross and brought those far away near.  
 This peace results in rejoicing in God and a settled standing before Him.
 

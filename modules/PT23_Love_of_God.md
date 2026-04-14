@@ -17,7 +17,7 @@ validation_status: validated
 
 ## 1. Definition
 
-The love of God refers to God’s gracious and active love toward His people in Christ.  
+God’s gracious and active affection toward His people in Christ.  
 In Paul’s letters, this love is shown supremely in Christ’s death and secures believers in God’s saving purpose.
 
 ---

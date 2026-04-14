@@ -17,7 +17,7 @@ validation_status: validated
 
 ## 1. Definition
 
-Grace refers to **grace (God’s undeserved favor)**.  
+God’s undeserved favor shown in His saving action toward people who cannot rescue themselves.  
 In Paul’s letters, grace is God’s generous action in saving sinners and sustaining believers in Christ.
 
 ---

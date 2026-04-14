@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-Election refers to God’s choosing according to His purpose and grace.  
-In Paul’s letters, election emphasizes God’s initiative rather than human merit.
+God’s choice of a people according to His own purpose rather than human merit.  
+In Paul’s letters, this choice highlights divine initiative and compassion, not human worthiness.
 
 ---
 

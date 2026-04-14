@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-Redemption refers to release and deliverance secured through Christ’s saving work.  
-In Paul’s letters, redemption emphasizes liberation from bondage and the movement from captivity into belonging, with a present reality and a future completion.
+Christ’s act of delivering people from bondage and bringing them into His possession through His saving work.  
+In Paul’s letters, this emphasizes liberation from captivity, present rescue, and a future completion still to come.
 
 ---
 
