@@ -97,21 +97,6 @@ Righteousness is received through faith, not established by the Law.
 
 <!--
 id: PT05-Q5
-reference: Philippians 3:9
-source: BSB
-source_url: https://biblehub.com/bsb/philippians/3.htm
-type: excerpt
-ellipsis_allowed: true
--->
-
-> “and be found in Him, not having my own righteousness from the law…
-> but that which is through faith in Christ, the righteousness from God on the basis of faith.”
->
-> *(Philippians 3:9)*  
-> [View on Bible Hub](https://biblehub.com/bsb/philippians/3.htm)
-
-<!--
-id: PT05-Q6
 reference: Romans 10:3-4
 source: BSB
 source_url: https://biblehub.com/bsb/romans/10.htm
@@ -124,25 +109,40 @@ ellipsis_allowed: false
 > *(Romans 10:3–4)*  
 > [View on Bible Hub](https://biblehub.com/bsb/romans/10.htm)
 
----
-
-## 5. Illustration / Example
-
-Abraham illustrates righteousness credited by faith.
-
 <!--
-id: PT05-Q7
-reference: Romans 4:3
+id: PT05-Q6
+reference: Romans 3:22
 source: BSB
-source_url: https://biblehub.com/bsb/romans/4.htm
+source_url: https://biblehub.com/bsb/romans/3.htm
 type: exact
 ellipsis_allowed: false
 -->
 
-> “For what does the Scripture say? ‘Abraham believed God, and it was credited to him as righteousness.’”
+> “And this righteousness from God comes through faith in Jesus Christ to all who believe. There is no distinction,”
 >
-> *(Romans 4:3)*  
-> [View on Bible Hub](https://biblehub.com/bsb/romans/4.htm)
+> *(Romans 3:22)*  
+> [View on Bible Hub](https://biblehub.com/bsb/romans/3.htm)
+
+---
+
+## 5. Illustration / Example
+
+Paul’s own testimony illustrates the difference between self-established righteousness and righteousness received from God.
+
+<!--
+id: PT05-Q7
+reference: Philippians 3:9
+source: BSB
+source_url: https://biblehub.com/bsb/philippians/3.htm
+type: excerpt
+ellipsis_allowed: true
+-->
+
+> “and be found in Him, not having my own righteousness from the law…
+> but that which is through faith in Christ, the righteousness from God on the basis of faith.”
+>
+> *(Philippians 3:9)*  
+> [View on Bible Hub](https://biblehub.com/bsb/philippians/3.htm)
 
 ---
 
@@ -171,7 +171,7 @@ ellipsis_allowed: false
 Paul teaches that no one possesses the righteousness God requires by works of the Law.  
 God has revealed His righteousness through Jesus Christ.  
 This right standing is God’s gift, given on the basis of faith and not human effort.  
-Abraham shows that God credits righteousness to those who believe Him.
+Paul’s own testimony shows the difference between self-made righteousness and the righteousness that comes from God.
 
 ---
 
@@ -197,7 +197,7 @@ ellipsis_allowed: false
 
 1. According to [Romans 3:10](https://biblehub.com/bsb/romans/3.htm) and [Romans 3:20](https://biblehub.com/bsb/romans/3.htm), what is humanity’s problem regarding righteousness?
 2. What do [Romans 3:21–22](https://biblehub.com/bsb/romans/3.htm) and [Romans 10:3–4](https://biblehub.com/bsb/romans/10.htm) show about God’s righteousness and human attempts to establish our own?
-3. How does [Romans 4:3](https://biblehub.com/bsb/romans/4.htm) support Paul’s teaching?
+3. How does [Philippians 3:9](https://biblehub.com/bsb/philippians/3.htm) illustrate Paul’s teaching?
 
 ---
 

@@ -19,7 +19,10 @@ def write_module(
     definition: str,
     summary: str,
     key_reference: str = "Romans 1:1",
+    illustration_reference: str = "",
 ) -> None:
+    if not illustration_reference:
+        illustration_reference = f"Romans {sum(ord(ch) for ch in title) % 50 + 1}:1"
     path.write_text(
         textwrap.dedent(
             f"""\
@@ -45,6 +48,23 @@ def write_module(
             ## 7. Summary
 
             {summary}
+
+            ---
+
+            ## 5. Illustration / Example
+
+            <!--
+            id: PTXX-Q0
+            reference: {illustration_reference}
+            source: BSB
+            source_url: https://biblehub.com/bsb/romans/2.htm
+            type: exact
+            ellipsis_allowed: false
+            -->
+
+            > "Placeholder"
+            >
+            > *({illustration_reference})*
 
             ---
 
@@ -86,10 +106,38 @@ class CheckTopicOverlapTests(unittest.TestCase):
                 key_reference="Romans 3:28",
             )
 
-            _, errors, duplicate_refs, similar_defs, similar_summaries = MODULE.analyze_modules(tmpdir)
+            _, errors, duplicate_refs, duplicate_illustrations, similar_defs, similar_summaries = MODULE.analyze_modules(tmpdir)
 
             self.assertEqual(errors, [])
             self.assertEqual(duplicate_refs, ["Romans 3:28: Faith, Justification"])
+            self.assertEqual(duplicate_illustrations, [])
+            self.assertEqual(similar_defs, [])
+            self.assertEqual(similar_summaries, [])
+
+    def test_duplicate_illustration_reference_is_reported(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            write_module(
+                Path(tmpdir) / "PT01.md",
+                "Justification",
+                "God's verdict declaring guilty sinners righteous through Christ.",
+                "God declares sinners righteous through Christ.",
+                key_reference="Romans 3:28",
+                illustration_reference="Romans 4:3",
+            )
+            write_module(
+                Path(tmpdir) / "PT05.md",
+                "Righteousness",
+                "The right standing God gives rather than people establish.",
+                "God gives right standing through Christ.",
+                key_reference="Romans 3:22",
+                illustration_reference="Romans 4:3",
+            )
+
+            _, errors, duplicate_refs, duplicate_illustrations, similar_defs, similar_summaries = MODULE.analyze_modules(tmpdir)
+
+            self.assertEqual(errors, [])
+            self.assertEqual(duplicate_refs, [])
+            self.assertEqual(duplicate_illustrations, ["Romans 4:3: Justification, Righteousness"])
             self.assertEqual(similar_defs, [])
             self.assertEqual(similar_summaries, [])
 
@@ -108,7 +156,7 @@ class CheckTopicOverlapTests(unittest.TestCase):
                 "A different summary lives here.",
             )
 
-            _, errors, _, similar_defs, _ = MODULE.analyze_modules(tmpdir)
+            _, errors, _, _, similar_defs, _ = MODULE.analyze_modules(tmpdir)
 
             self.assertEqual(errors, [])
             self.assertEqual(len(similar_defs), 1)
@@ -129,7 +177,7 @@ class CheckTopicOverlapTests(unittest.TestCase):
                 "God saves helpless people and sustains them in Christ for holy living.",
             )
 
-            _, errors, _, _, similar_summaries = MODULE.analyze_modules(tmpdir)
+            _, errors, _, _, _, similar_summaries = MODULE.analyze_modules(tmpdir)
 
             self.assertEqual(errors, [])
             self.assertEqual(len(similar_summaries), 1)
@@ -152,10 +200,11 @@ class CheckTopicOverlapTests(unittest.TestCase):
                 key_reference="Titus 3:5",
             )
 
-            _, errors, duplicate_refs, similar_defs, similar_summaries = MODULE.analyze_modules(tmpdir)
+            _, errors, duplicate_refs, duplicate_illustrations, similar_defs, similar_summaries = MODULE.analyze_modules(tmpdir)
 
             self.assertEqual(errors, [])
             self.assertEqual(duplicate_refs, [])
+            self.assertEqual(duplicate_illustrations, [])
             self.assertEqual(similar_defs, [])
             self.assertEqual(similar_summaries, [])
 

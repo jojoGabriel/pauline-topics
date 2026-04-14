@@ -22,6 +22,7 @@ class ModuleOverlap:
     definition: str
     summary: str
     key_reference: str
+    illustration_references: List[str]
 
 
 def normalize_text(text: str) -> str:
@@ -140,6 +141,13 @@ def extract_key_reference(text: str) -> Optional[str]:
     return match.group(1).strip() if match else None
 
 
+def extract_references_from_section(text: str, heading: str) -> List[str]:
+    section = extract_section(text, heading)
+    if not section:
+        return []
+    return [match.strip() for match in REFERENCE_PATTERN.findall(section)]
+
+
 def load_module_overlap(path: str) -> ModuleOverlap:
     text = Path(path).read_text(encoding="utf-8")
     title = extract_title(text)
@@ -154,12 +162,14 @@ def load_module_overlap(path: str) -> ModuleOverlap:
     key_reference = extract_key_reference(text)
     if not key_reference:
         raise ValueError(f"Missing key verse metadata reference in {path}")
+    illustration_references = extract_references_from_section(text, "## 5. Illustration / Example")
     return ModuleOverlap(
         path=path,
         title=title,
         definition=definition,
         summary=summary,
         key_reference=key_reference,
+        illustration_references=illustration_references,
     )
 
 
@@ -184,7 +194,7 @@ def jaccard_similarity(left: Set[str], right: Set[str]) -> float:
 
 def analyze_modules(
     root_path: str,
-) -> Tuple[List[ModuleOverlap], List[str], List[str], List[str], List[str]]:
+) -> Tuple[List[ModuleOverlap], List[str], List[str], List[str], List[str], List[str]]:
     modules: List[ModuleOverlap] = []
     errors: List[str] = []
 
@@ -195,9 +205,10 @@ def analyze_modules(
             errors.append(str(exc))
 
     if errors:
-        return modules, errors, [], [], []
+        return modules, errors, [], [], [], []
 
     duplicate_key_verses: List[str] = []
+    duplicate_illustrations: List[str] = []
     similar_definitions: List[str] = []
     similar_summaries: List[str] = []
 
@@ -208,6 +219,15 @@ def analyze_modules(
         if len(grouped) > 1:
             titles = ", ".join(sorted(module.title for module in grouped))
             duplicate_key_verses.append(f"{reference}: {titles}")
+
+    illustration_refs: Dict[str, List[ModuleOverlap]] = {}
+    for module in modules:
+        for reference in module.illustration_references:
+            illustration_refs.setdefault(reference, []).append(module)
+    for reference, grouped in sorted(illustration_refs.items()):
+        unique_titles = sorted({module.title for module in grouped})
+        if len(unique_titles) > 1:
+            duplicate_illustrations.append(f"{reference}: {', '.join(unique_titles)}")
 
     for index, left in enumerate(modules):
         for right in modules[index + 1 :]:
@@ -227,12 +247,13 @@ def analyze_modules(
                     f"{left.title} <-> {right.title} (similarity {summary_score:.2f})"
                 )
 
-    return modules, errors, duplicate_key_verses, similar_definitions, similar_summaries
+    return modules, errors, duplicate_key_verses, duplicate_illustrations, similar_definitions, similar_summaries
 
 
 def format_report(
     modules: Sequence[ModuleOverlap],
     duplicate_key_verses: Sequence[str],
+    duplicate_illustrations: Sequence[str],
     similar_definitions: Sequence[str],
     similar_summaries: Sequence[str],
 ) -> str:
@@ -241,6 +262,11 @@ def format_report(
         lines.append("")
         lines.append("Duplicate key verse references:")
         for finding in duplicate_key_verses:
+            lines.append(f"- {finding}")
+    if duplicate_illustrations:
+        lines.append("")
+        lines.append("Duplicate illustration/example references:")
+        for finding in duplicate_illustrations:
             lines.append(f"- {finding}")
     if similar_definitions:
         lines.append("")
@@ -252,7 +278,7 @@ def format_report(
         lines.append("Highly similar summaries:")
         for finding in similar_summaries:
             lines.append(f"- {finding}")
-    if not duplicate_key_verses and not similar_definitions and not similar_summaries:
+    if not duplicate_key_verses and not duplicate_illustrations and not similar_definitions and not similar_summaries:
         lines.append("")
         lines.append("No major overlap findings found.")
     return "\n".join(lines)
@@ -280,7 +306,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     parser = build_parser()
     args = parser.parse_args(argv)
 
-    modules, errors, duplicate_key_verses, similar_definitions, similar_summaries = analyze_modules(
+    modules, errors, duplicate_key_verses, duplicate_illustrations, similar_definitions, similar_summaries = analyze_modules(
         args.path
     )
     if errors:
@@ -292,11 +318,12 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         format_report(
             modules,
             duplicate_key_verses,
+            duplicate_illustrations,
             similar_definitions,
             similar_summaries,
         )
     )
-    if args.strict and (duplicate_key_verses or similar_definitions or similar_summaries):
+    if args.strict and (duplicate_key_verses or duplicate_illustrations or similar_definitions or similar_summaries):
         return 2
     return 0
 
