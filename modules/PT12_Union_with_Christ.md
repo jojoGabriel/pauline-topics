@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-Union with Christ refers to the believer’s shared life and identity in Christ.  
-In Paul’s letters, believers are described as being in Christ, alive with Him, and joined to His death and resurrection.
+Union with Christ refers to the believer’s shared participation and identity in Christ.  
+In Paul’s letters, believers are described as being in Christ, joined to His death and resurrection, and sharing His life.
 
 ---
 
@@ -93,7 +93,7 @@ ellipsis_allowed: false
 
 ## 4. Means / Response
 
-Believers live out this union by faith and new identity in Christ.
+Believers live out this union by faith and by continuing in the identity they have in Christ.
 
 <!--
 id: PT12-Q5
@@ -147,7 +147,7 @@ ellipsis_allowed: false
 
 ## 6. Result / Outcome
 
-Union with Christ brings new life, shared identity, and spiritual completeness.
+Union with Christ brings shared life, shared identity, and spiritual completeness in Him.
 
 <!--
 id: PT12-Q8
@@ -183,8 +183,8 @@ ellipsis_allowed: false
 
 Paul teaches that believers are no longer separate from Christ but united to Him.  
 They share in His death, resurrection, and life.  
-This union creates a new identity and a shared standing in Christ.  
-Those in Christ are called to live out that newness by faith.
+This union gives them a new identity and a shared standing in Christ.  
+Those in Christ are called to live out that shared life by faith.
 
 ---
 

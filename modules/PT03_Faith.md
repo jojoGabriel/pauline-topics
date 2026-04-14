@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-Faith refers to **faith (trust in God and in Jesus Christ)**.  [revise the definition]
-In Paul’s letters, faith is the means by which people receive God’s righteousness and continue to live in Christ.
+Faith refers to **faith (trust in God and in Jesus Christ)**.  
+In Paul’s letters, faith is the trusting response by which people receive God’s promise and continue to live in Christ.
 
 ---
 
@@ -50,7 +50,7 @@ ellipsis_allowed: true
 -->
 
 > “The Gentiles, who did not pursue righteousness, have obtained it, a righteousness that is by faith…
-> their pursuit was not by faith, but as if it were by works.” [it is not clear who is they]
+> Because their pursuit was not by faith, but as if it were by works.”
 >
 > *(Romans 9:30–32)*  
 > [View on Bible Hub](https://biblehub.com/bsb/romans/9.htm)
@@ -59,7 +59,7 @@ ellipsis_allowed: true
 
 ## 3. God’s Action / Provision
 
-God reveals righteousness in the gospel and gives it through faith.
+God reveals His saving promise in the gospel and calls for faith.
 
 <!--
 id: PT03-Q3
@@ -93,7 +93,7 @@ ellipsis_allowed: false
 
 ## 4. Means / Response
 
-Faith receives salvation and continues as the way believers live.
+Faith receives God’s promise and continues as the way believers live.
 
 <!--
 id: PT03-Q5
@@ -161,7 +161,7 @@ ellipsis_allowed: false
 
 ## 6. Result / Outcome
 
-Faith brings peace with God and assurance in His promise.
+Faith brings assurance in what God has promised and shapes the believer’s whole life in Christ.
 
 <!--
 id: PT03-Q9
@@ -182,9 +182,9 @@ ellipsis_allowed: false
 ## 7. Summary
 
 Paul teaches that faith receives what works cannot attain.  
-Through faith, people receive righteousness, salvation, and God’s promise.  
+Through faith, people trust God’s promise, receive what He gives, and continue to live in Christ.  
 Abraham shows what faith looks like: trusting God’s word and being strengthened in that trust.  
-Believers continue to live by faith in the Son of God.
+Believers therefore live by faith in the Son of God.
 
 ---
 

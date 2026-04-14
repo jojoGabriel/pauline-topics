@@ -18,13 +18,13 @@ validation_status: validated
 ## 1. Definition
 
 New creation refers to the new reality God brings about in those who are in Christ.  
-In Paul’s letters, this includes new identity, new life, and a transformed way of living.
+In Paul’s letters, this emphasizes the old passing away, the new self, and a transformed pattern of life.
 
 ---
 
 ## 2. The Problem / Context
 
-The old life is marked by sin, death, and worldly identity.
+The old life is marked by sin, death, and the old way of being.
 
 <!--
 id: PT13-Q1
@@ -126,7 +126,7 @@ ellipsis_allowed: false
 
 ## 5. Illustration / Example
 
-Paul illustrates new creation through new self, new life, and new standing in Christ.
+Paul illustrates new creation through the putting off of the old self and the putting on of the new self.
 
 <!--
 id: PT13-Q7
@@ -146,7 +146,7 @@ ellipsis_allowed: false
 
 ## 6. Result / Outcome
 
-New creation brings transformed life and a renewed pattern of obedience.
+New creation brings transformed life and a renewed pattern of holiness and obedience.
 
 <!--
 id: PT13-Q8
@@ -167,9 +167,9 @@ ellipsis_allowed: false
 ## 7. Summary
 
 Paul teaches that in Christ believers become a new creation.  
-The old life has passed, and God has created a new life and identity.  
-This new creation is not merely inward language but a real pattern of renewal and obedience.  
-Those made new in Christ are to walk in that newness.
+The old has passed, and God has brought about a new reality in them.  
+This new creation appears in a renewed self and a transformed pattern of life.  
+Those made new in Christ are to walk in keeping with that newness.
 
 ---
 

@@ -17,14 +17,14 @@ validation_status: validated
 
 ## 1. Definition
 
-Peace with God refers to restored relationship and standing before God through Jesus Christ.  
-In Paul’s letters, this peace is the result of justification and Christ’s reconciling work.
+Peace with God refers to the settled state of peace believers now have before God through Jesus Christ.  
+In Paul’s letters, this peace is the result of justification and the end of hostility through Christ.
 
 ---
 
 ## 2. The Problem / Context
 
-Apart from Christ, people are alienated and under wrath.
+Apart from Christ, people stand as enemies and without peace before God.
 
 <!--
 id: PT19-Q1
@@ -59,7 +59,7 @@ ellipsis_allowed: true
 
 ## 3. God’s Action / Provision
 
-God makes peace through Christ.
+God establishes peace through Christ.
 
 <!--
 id: PT19-Q3
@@ -93,7 +93,7 @@ ellipsis_allowed: false
 
 ## 4. Means / Response
 
-This peace is received through faith in Christ.
+This peace is received through faith and enjoyed in a standing of grace.
 
 <!--
 id: PT19-Q5
@@ -113,7 +113,7 @@ ellipsis_allowed: false
 
 ## 5. Illustration / Example
 
-Paul applies peace both to peace with God and peace among former enemies.
+Paul shows that the peace Christ brings ends hostility and creates nearness.
 
 <!--
 id: PT19-Q6
@@ -147,7 +147,7 @@ ellipsis_allowed: false
 
 ## 6. Result / Outcome
 
-Peace with God brings rejoicing and nearness to Him.
+Peace with God brings rejoicing, nearness, and settled assurance before Him.
 
 <!--
 id: PT19-Q8
@@ -167,10 +167,10 @@ ellipsis_allowed: false
 
 ## 7. Summary
 
-Paul teaches that people were formerly alienated from God and stood as His enemies.  
-Through justification and reconciliation in Christ, believers now have peace with God.  
-Christ Himself is our peace, and He has made peace through His cross.  
-This peace results in rejoicing in God and nearness to Him.
+Paul teaches that people once stood as enemies and without peace before God.  
+Through justification in Christ, believers now have peace with God.  
+Christ has made peace through His cross and brought those far away near.  
+This peace results in rejoicing in God and a settled standing before Him.
 
 ---
 

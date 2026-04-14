@@ -1,41 +1,46 @@
 # Volume 1 — Salvation & Foundations (FINAL)
 
+Review key:
+- `V1-xx` = Volume 1 sequence for review order
+- `PT-xx` = canonical topic ID used by generated module files
+
 ## Section A — The Human Condition (The Need)
 
-- [x] PT-01 Sin
-- [x] PT-02 Death (as consequence of sin)
-- [ ] PT-03 Condemnation
-- [ ] PT-04 Righteousness (human inability vs God’s standard)
+- [ ] V1-01 / PT-26 — Sin
+- [ ] V1-02 / PT-27 — Death (as consequence of sin)
+- [ ] V1-03 / PT-28 — Condemnation
+- [ ] V1-04 / PT-05 — Righteousness (human inability vs God’s standard)
 
 ## Section B — God’s Provision (The Gospel Core)
 
-- [ ] PT-05 The Gospel
-- [ ] PT-06 The Cross
-- [ ] PT-07 Redemption
-- [ ] PT-08 Reconciliation
-- [ ] PT-09 Atonement (through Christ)
-- [ ] PT-10 Mercy
-- [ ] PT-11 Love of God
+- [ ] V1-05 / PT-09 — The Gospel
+- [ ] V1-06 / PT-10 — The Cross
+- [ ] V1-07 / PT-06 — Redemption
+- [ ] V1-08 / PT-07 — Reconciliation
+- [ ] V1-09 / PT-08 — Atonement (through Christ)
+- [ ] V1-10 / PT-22 — Mercy
+- [ ] V1-11 / PT-23 — Love of God
 
 ## Section C — Receiving Salvation
 
-- [ ] PT-12 Grace
-- [ ] PT-13 Faith
-- [ ] PT-14 Justification by Faith
+- [ ] V1-12 / PT-04 — Salvation
+- [x] V1-13 / PT-02 — Grace
+- [ ] V1-14 / PT-03 — Faith
+- [x] V1-15 / PT-01 — Justification by Faith
 
 ## Section D — Results of Salvation
 
-- [ ] PT-15 Peace with God
-- [ ] PT-16 Access to God
-- [ ] PT-17 Forgiveness
-- [ ] PT-18 Eternal Life
+- [ ] V1-16 / PT-19 — Peace with God
+- [ ] V1-17 / PT-20 — Access to God
+- [ ] V1-18 / PT-18 — Forgiveness
+- [ ] V1-19 / PT-21 — Eternal Life
 
 ## Section E — Security & Calling
 
-- [ ] PT-19 Calling
-- [ ] PT-20 Election
+- [ ] V1-20 / PT-17 — Calling
+- [ ] V1-21 / PT-15 — Election
 
 ## Section F — Identity & New Reality
 
-- [ ] PT-21 Union with Christ
-- [ ] PT-22 New Creation
+- [ ] V1-22 / PT-12 — Union with Christ
+- [ ] V1-23 / PT-13 — New Creation

@@ -18,7 +18,7 @@ validation_status: validated
 ## 1. Definition
 
 Forgiveness refers to God’s removal of guilt and trespass through Christ.  
-In Paul’s letters, forgiveness is grounded in redemption through Christ’s blood and becomes a pattern for believers toward one another.
+In Paul’s letters, forgiveness emphasizes the pardon of sins and the non-counting of trespasses, and it becomes a pattern for believers toward one another.
 
 ---
 
@@ -59,7 +59,7 @@ ellipsis_allowed: false
 
 ## 3. God’s Action / Provision
 
-God gives forgiveness through Christ.
+God pardons sins through Christ.
 
 <!--
 id: PT18-Q3
@@ -127,7 +127,7 @@ ellipsis_allowed: false
 
 ## 5. Illustration / Example
 
-Paul speaks of forgiveness as part of God’s new-life work in Christ.
+Paul speaks of forgiveness as God’s direct pardon of trespasses in Christ.
 
 <!--
 id: PT18-Q7
@@ -147,7 +147,7 @@ ellipsis_allowed: false
 
 ## 6. Result / Outcome
 
-Forgiveness belongs to the new life God gives in Christ.
+Forgiveness brings the blessing of sins no longer counted against the sinner.
 
 <!--
 id: PT18-Q8
@@ -169,9 +169,9 @@ ellipsis_allowed: true
 
 ## 7. Summary
 
-Paul teaches that people need forgiveness because they are dead in trespasses and sins.  
-God gives forgiveness through Christ’s blood and redemption.  
-This forgiveness belongs to those made alive with Christ.  
+Paul teaches that people need forgiveness because they stand guilty in their trespasses and sins.  
+God grants that forgiveness in Christ, no longer counting sins against those He pardons.  
+This pardon belongs to those made alive with Christ and blessed by His grace.  
 Those forgiven by God are called to extend forgiveness to others.
 
 ---

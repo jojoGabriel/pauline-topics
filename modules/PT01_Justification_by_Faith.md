@@ -18,7 +18,7 @@ validation_status: validated
 ## 1. Definition
 
 Justification refers to being **justified (declared righteous before God)**.  
-Paul teaches that this right standing before God is given by grace (God’s undeserved favor) and received through faith (trust in God and in Jesus Christ), not by works of the Law (the commandments given through Moses).
+Paul teaches that justification is God’s verdict over the sinner: this right standing before God is given by grace (God’s undeserved favor) and received through faith (trust in God and in Jesus Christ), not by works of the Law (the commandments given through Moses).
 
 ---
 
@@ -58,7 +58,7 @@ ellipsis_allowed: false
 
 ## 3. God’s Action / Provision
 
-God provides righteousness apart from the Law through Christ.
+God gives the verdict of righteousness apart from the Law through Christ.
 
 <!--
 id: PT01-Q3
@@ -146,7 +146,7 @@ ellipsis_allowed: false
 
 ## 6. Result / Outcome
 
-Those who are justified by faith have peace with God.
+Those justified by faith stand accepted before God and have peace with Him.
 
 <!--
 id: PT01-Q8
@@ -166,10 +166,10 @@ ellipsis_allowed: false
 
 ## 7. Summary
 
-Paul teaches that all people are sinners and cannot be justified by works of the Law.  
-God reveals righteousness apart from the Law through Jesus Christ.  
+Paul teaches that all people are sinners and cannot justify themselves by works of the Law.  
+God gives the verdict of righteousness through Jesus Christ apart from the Law.  
 This justification is given freely by grace and received through faith.  
-Those who are justified through faith have peace with God.
+Those justified through faith stand accepted before God and have peace with Him.
 
 ---
 

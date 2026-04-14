@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-Righteousness refers to **righteousness (right standing before God)**.  [what?]
-In Paul’s letters, human beings do not possess this righteousness by their own effort; God gives righteousness through faith in Christ.
+Righteousness refers to **righteousness (right standing before God)**.  
+In Paul’s letters, righteousness is not achieved by human effort; it is God’s righteousness revealed and the right standing He gives through faith in Christ.
 
 ---
 
@@ -58,7 +58,7 @@ ellipsis_allowed: false
 
 ## 3. God’s Action / Provision
 
-God reveals and gives righteousness through Christ.
+God reveals His righteousness and gives right standing through Christ.
 
 <!--
 id: PT05-Q3
@@ -148,7 +148,7 @@ ellipsis_allowed: false
 
 ## 6. Result / Outcome
 
-Those who receive righteousness by faith stand accepted before God.
+Those who receive this gift of righteousness stand accepted before God.
 
 <!--
 id: PT05-Q8
@@ -170,7 +170,7 @@ ellipsis_allowed: false
 
 Paul teaches that no one possesses the righteousness God requires by works of the Law.  
 God has revealed His righteousness through Jesus Christ.  
-This righteousness is given on the basis of faith, not human effort.  
+This right standing is God’s gift, given on the basis of faith and not human effort.  
 Abraham shows that God credits righteousness to those who believe Him.
 
 ---

@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-Redemption refers to release secured through Christ’s saving work.  
-In Paul’s letters, redemption is tied to Christ’s blood, forgiveness, and God’s purpose to bring His people fully into freedom.
+Redemption refers to release and deliverance secured through Christ’s saving work.  
+In Paul’s letters, redemption emphasizes liberation from bondage and the movement from captivity into belonging, with a present reality and a future completion.
 
 ---
 
@@ -58,7 +58,7 @@ ellipsis_allowed: false
 
 ## 3. God’s Action / Provision
 
-God provides redemption in Christ.
+God provides release from bondage in Christ.
 
 <!--
 id: PT06-Q3
@@ -92,7 +92,7 @@ ellipsis_allowed: false
 
 ## 4. Means / Response
 
-Redemption is found in Christ, not in human effort.
+Redemption is found in Christ, who rescues and transfers His people into His kingdom.
 
 <!--
 id: PT06-Q5
@@ -147,7 +147,7 @@ ellipsis_allowed: false
 
 ## 6. Result / Outcome
 
-Redemption brings forgiveness and future hope.
+Redemption brings deliverance now and future completion.
 
 <!--
 id: PT06-Q8
@@ -167,10 +167,10 @@ ellipsis_allowed: false
 
 ## 7. Summary
 
-Paul teaches that people need release from sin’s dominion.  
-God provides that release in Christ through His blood.  
-Redemption includes forgiveness now and points toward the final redemption still awaited.  
-Believers therefore live with both gratitude and hope.
+Paul teaches that people need deliverance from sin’s dominion and captivity.  
+God provides that deliverance in Christ through His saving work.  
+Redemption includes present rescue and also points toward the final redemption still awaited.  
+Believers therefore live as those who have been brought out, transferred, and kept for a future completion.
 
 ---
 
