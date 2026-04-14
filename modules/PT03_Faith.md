@@ -17,7 +17,7 @@ validation_status: validated
 
 ## 1. Definition
 
-Faith refers to **faith (trust in God and in Jesus Christ)**.  
+Faith refers to **faith (trust in God and in Jesus Christ)**.  [revise the definition]
 In Paul’s letters, faith is the means by which people receive God’s righteousness and continue to live in Christ.
 
 ---
