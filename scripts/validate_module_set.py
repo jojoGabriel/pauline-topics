@@ -68,6 +68,30 @@ def build_commands(args: argparse.Namespace) -> List[Tuple[str, List[str]]]:
         overlap_cmd.append("--strict")
     commands.append(("Overlap validation", overlap_cmd))
 
+    registry_cmd = [sys.executable, str(SCRIPT_DIR / "check_registry_alignment.py"), args.path]
+    if args.strict:
+        registry_cmd.append("--strict")
+    commands.append(("Registry validation", registry_cmd))
+
+    volume_cmd = [sys.executable, str(SCRIPT_DIR / "check_volume_coverage.py"), args.path]
+    if args.strict:
+        volume_cmd.append("--strict")
+    commands.append(("Volume coverage", volume_cmd))
+
+    broader_cmd = [sys.executable, str(SCRIPT_DIR / "check_broader_connections.py"), args.path]
+    if args.strict:
+        broader_cmd.append("--strict")
+    commands.append(("Broader connections", broader_cmd))
+
+    question_similarity_cmd = [
+        sys.executable,
+        str(SCRIPT_DIR / "check_question_similarity_volume.py"),
+        args.path,
+    ]
+    if args.strict:
+        question_similarity_cmd.append("--strict")
+    commands.append(("Question similarity", question_similarity_cmd))
+
     return commands
 
 

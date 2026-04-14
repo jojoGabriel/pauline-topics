@@ -236,6 +236,10 @@ After generating or revising a topic module:
 - validate `## 7. Summary` alignment with `python3 scripts/check_summaries.py` before considering the module complete
 - validate question structure and clarity with `python3 scripts/check_questions.py` before considering the module complete
 - review cross-module overlap with `python3 scripts/check_topic_overlap.py` before considering the module complete
+- verify module IDs, titles, and filenames against `topics.md` with `python3 scripts/check_registry_alignment.py`
+- verify current module coverage against `Volume1_Topics_FINAL.md` with `python3 scripts/check_volume_coverage.py`
+- validate `## 12. Broader Scripture Connections (Optional)` with `python3 scripts/check_broader_connections.py` when that section is present
+- review repeated questions across modules with `python3 scripts/check_question_similarity_volume.py`
 - validate all quote metadata and quoted text against the BSB source before considering the module complete
 - when possible, prefer the one-command check `python3 scripts/validate_module_set.py modules --bsb-json bsb_usj`
 - fix any validation failures before final delivery

@@ -13,12 +13,19 @@ assert SPEC.loader is not None
 SPEC.loader.exec_module(MODULE)
 
 
-def write_module(path: Path, title: str, definition: str, summary: str, quote_text: str = "For all have sinned and fall short of the glory of God.") -> None:
+def write_module(
+    path: Path,
+    title: str,
+    definition: str,
+    summary: str,
+    quote_text: str = "For all have sinned and fall short of the glory of God.",
+    module_id: str = "PT03",
+) -> None:
     path.write_text(
         textwrap.dedent(
             f"""\
 ---
-module_id: PTXX
+module_id: {module_id}
 title: {title}
 author_scope: Pauline only
 text_basis: BSB
@@ -43,7 +50,7 @@ validation_status: draft
 ## 2. The Problem / Context
 
 <!--
-id: PTXX-Q1
+id: {module_id}-Q1
 reference: Romans 3:23
 source: BSB
 source_url: https://biblehub.com/bsb/romans/3.htm
@@ -67,7 +74,7 @@ ellipsis_allowed: false
 ## 8. Key Verse
 
 <!--
-id: PTXX-Q2
+id: {module_id}-Q2
 reference: Romans 3:23
 source: BSB
 source_url: https://biblehub.com/bsb/romans/3.htm
@@ -112,7 +119,7 @@ class ValidateModuleSetTests(unittest.TestCase):
         )
         commands = MODULE.build_commands(args)
 
-        self.assertEqual(len(commands), 5)
+        self.assertEqual(len(commands), 9)
         self.assertEqual(commands[0][0], "Quote validation")
         self.assertIn("--bsb-json", commands[0][1])
         self.assertIn("bsb_usj", commands[0][1])
@@ -121,6 +128,10 @@ class ValidateModuleSetTests(unittest.TestCase):
         self.assertIn("--strict", commands[2][1])
         self.assertIn("--strict", commands[3][1])
         self.assertIn("--strict", commands[4][1])
+        self.assertIn("--strict", commands[5][1])
+        self.assertIn("--strict", commands[6][1])
+        self.assertIn("--strict", commands[7][1])
+        self.assertIn("--strict", commands[8][1])
 
     def test_cli_runs_all_checks_with_local_bsb_source(self):
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -150,6 +161,10 @@ class ValidateModuleSetTests(unittest.TestCase):
             self.assertIn("== Summary validation ==", completed.stdout)
             self.assertIn("== Question validation ==", completed.stdout)
             self.assertIn("== Overlap validation ==", completed.stdout)
+            self.assertIn("== Registry validation ==", completed.stdout)
+            self.assertIn("== Volume coverage ==", completed.stdout)
+            self.assertIn("== Broader connections ==", completed.stdout)
+            self.assertIn("== Question similarity ==", completed.stdout)
 
 
 if __name__ == "__main__":

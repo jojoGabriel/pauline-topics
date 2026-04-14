@@ -277,5 +277,7 @@ Before finalizing a topic, ask:
 8. Does the summary restate this topic’s main point before moving to causes, results, or neighboring themes?
 9. Does the module still look distinct after checking summary drift and overlap against other modules?
 10. Are the observation, reflection, and application questions distinct, text-based, and free from speculation?
+11. Does the module still align with the canonical registry and current volume plan?
+12. If broader connections are included, are they reference-only and free from explanation?
 
-Use `python3 scripts/validate_module_set.py modules --bsb-json bsb_usj` as the preferred post-draft check, or run `python3 scripts/check_definitions.py`, `python3 scripts/check_summaries.py`, `python3 scripts/check_questions.py`, and `python3 scripts/check_topic_overlap.py` individually when needed.
+Use `python3 scripts/validate_module_set.py modules --bsb-json bsb_usj` as the preferred post-draft check, or run `python3 scripts/check_definitions.py`, `python3 scripts/check_summaries.py`, `python3 scripts/check_questions.py`, `python3 scripts/check_topic_overlap.py`, `python3 scripts/check_registry_alignment.py`, `python3 scripts/check_volume_coverage.py`, `python3 scripts/check_broader_connections.py`, and `python3 scripts/check_question_similarity_volume.py` individually when needed.
