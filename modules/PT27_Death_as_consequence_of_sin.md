@@ -58,7 +58,8 @@ ellipsis_allowed: false
 
 ## 3. God’s Action / Provision
 
-God answers the reign of death through the work of Christ and the gift of life.
+God answers the reign of death through the work of Christ and the gift of life.  
+When Paul says believers will "reign in life," he is describing Christ’s life overcoming death’s rule, not merely a stronger religious feeling.
 
 <!--
 id: PT27-Q3
@@ -238,4 +239,4 @@ ellipsis_allowed: false
 ## 11. Application Questions
 
 1. How should Paul’s teaching about death as the wage of sin shape the seriousness with which you view sin?
-2. How should the promise of life in Christ in [Romans 5:17](https://biblehub.com/bsb/romans/5.htm) and [Romans 6:23](https://biblehub.com/bsb/romans/6.htm) shape your hope?
+2. How should the promise that Christ brings you out from under death’s rule into life in [Romans 5:17](https://biblehub.com/bsb/romans/5.htm) and [Romans 6:23](https://biblehub.com/bsb/romans/6.htm) shape your hope?

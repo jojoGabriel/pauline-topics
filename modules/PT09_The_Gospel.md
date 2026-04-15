@@ -17,7 +17,7 @@ validation_status: validated
 
 ## 1. Definition
 
-The good news of what God has done in Jesus Christ for salvation.  
+The good news that God has acted in Jesus Christ to deliver sinners through His death and resurrection.  
 In Paul’s letters, this message centers on Christ’s death, resurrection, and saving power for all who believe.
 
 ---

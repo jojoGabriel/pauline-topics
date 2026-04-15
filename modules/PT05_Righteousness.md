@@ -148,7 +148,8 @@ ellipsis_allowed: true
 
 ## 6. Result / Outcome
 
-Those who receive this gift of righteousness stand accepted before God.
+Those who receive this gift of righteousness stand accepted before God.  
+In Paul’s contrast, death once ruled because of Adam’s trespass, but those who receive God’s gift in Christ now share in the life He gives instead of remaining under death’s dominion.
 
 <!--
 id: PT05-Q8
@@ -205,7 +206,7 @@ ellipsis_allowed: false
 
 1. Why is it important that righteousness is described as something revealed and given by God?
 2. What stands out to you about Paul rejecting “my own righteousness from the law” in [Philippians 3:9](https://biblehub.com/bsb/philippians/3.htm)?
-3. How does the gift of righteousness in [Romans 5:17](https://biblehub.com/bsb/romans/5.htm) reshape the believer’s confidence?
+3. How does [Romans 5:17](https://biblehub.com/bsb/romans/5.htm) help you understand what it means to live under Christ’s gift of righteousness rather than under death’s rule?
 
 ---
 

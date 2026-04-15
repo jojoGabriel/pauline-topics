@@ -9,7 +9,7 @@ Use volume planning files only to determine generation order for a specific volu
 - [ ] PT-02 Grace
 - [ ] PT-03 Faith
 - [ ] PT-04 Salvation
-- [ ] PT-05 Righteousness
+- [x] PT-05 Righteousness
 - [ ] PT-06 Redemption
 - [ ] PT-07 Reconciliation
 - [ ] PT-08 Atonement (through Christ)
@@ -35,7 +35,7 @@ Use volume planning files only to determine generation order for a specific volu
 
 - [x] PT-26 Sin
 - [x] PT-27 Death (as consequence of sin)
-- [ ] PT-28 Condemnation
+- [x] PT-28 Condemnation
 - [ ] PT-29 The Flesh
 - [ ] PT-30 Flesh vs Spirit
 - [ ] PT-31 The Law (Mosaic Law)

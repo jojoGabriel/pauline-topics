@@ -199,7 +199,36 @@ In `## 7. Summary`:
 
 ---
 
-### 13. Linking Rules
+### 13. Accessibility Review Rule
+
+After the module has been drafted from Paul’s text and after the normal validation checks, you MAY do a secondary readability review using Bible Hub study or commentary pages to identify phrases that may be difficult for newer believers to understand.
+
+This review is for clarity diagnosis only, not for authority.
+
+Allowed use:
+
+- identify potentially opaque phrases such as `reign in life`, `peace with God`, `redemption`, `access`, or `gift of righteousness`
+- confirm where a new reader may miss the force of Paul’s imagery or argument
+- rewrite nearby explanatory prose or questions in simpler language while staying anchored to the cited Pauline text
+
+Not allowed:
+
+- importing Bible Hub commentary as module content
+- adopting theological frameworks, technical labels, or doctrinal conclusions that are not already warranted by the Pauline passages in use
+- adding non-Pauline supporting material to the main module content because a note or commentary mentioned it
+- turning the module into verse-by-verse explanation or commentary
+
+Guardrails:
+
+- Scripture remains the primary source and final authority
+- the module must still read as Bible study material, not as a commentary
+- any clarification added to prose or questions should be brief, plain, and text-grounded
+- use Bible Hub to ask `What phrase may confuse a newer reader?`, not `What doctrine should this module teach?`
+- if a clarification cannot be stated naturally from the Pauline text itself, leave it out
+
+---
+
+### 14. Linking Rules
 
 Include links ONLY:
 
@@ -219,7 +248,7 @@ Question-section links rule:
 
 ---
 
-### 14. Output Format
+### 15. Output Format
 
 - Output must be valid Markdown (.md)
 - Clean and readable
@@ -227,7 +256,7 @@ Question-section links rule:
 
 ---
 
-### 15. Post-Generation Workflow (REQUIRED)
+### 16. Post-Generation Workflow (REQUIRED)
 
 After generating or revising a topic module:
 
@@ -238,6 +267,7 @@ After generating or revising a topic module:
 - validate question structure and clarity with `python3 scripts/check_questions.py` before considering the module complete
 - review cross-module overlap with `python3 scripts/check_topic_overlap.py` before considering the module complete
 - verify module IDs, titles, and filenames against `topics.md` with `python3 scripts/check_registry_alignment.py`
+- if a phrase still feels opaque to a newer believer after those steps, do an optional Bible Hub readability check and revise only for clarity, not for added commentary
 - verify current module coverage against `Volume1_Topics_FINAL.md` with `python3 scripts/check_volume_coverage.py`
 - validate `## 12. Broader Scripture Connections (Optional)` with `python3 scripts/check_broader_connections.py` when that section is present
 - review repeated questions across modules with `python3 scripts/check_question_similarity_volume.py`

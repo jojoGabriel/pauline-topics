@@ -18,7 +18,7 @@ validation_status: validated
 ## 1. Definition
 
 God’s compassionate action toward people in misery, guilt, and helplessness.  
-In Paul’s letters, this compassion explains why salvation comes from God’s pity and purpose rather than human effort.
+In Paul’s letters, this compassion explains why God acts from His own pity and purpose rather than human effort.
 
 ---
 

@@ -35,6 +35,15 @@ The scripts are designed to catch structural, formatting, overlap, and consisten
 - Check audience fit:
   Would a thoughtful non-specialist be able to understand and use this module?
 
+- Check opaque phrases:
+  Would a newer believer understand the meaning of key expressions such as `reign in life`, `peace with God`, `gift of righteousness`, `redemption`, or `access to God` from the module as written?
+
+- Optional Bible Hub readability check:
+  If a phrase still feels hard to grasp, use Bible Hub study or commentary pages only to identify where readers may stumble, then rewrite the nearby prose or questions in plain, text-grounded language.
+
+- Keep the guardrails:
+  Use Bible Hub for clarity diagnosis, not as a source of module authority. Do not import commentary voice, outside doctrinal systems, or non-Pauline support into the main content.
+
 ## Cross-Module Editorial Review
 
 - Compare shared texts across modules:

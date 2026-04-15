@@ -17,7 +17,7 @@ validation_status: validated
 
 ## 1. Definition
 
-God’s summons that brings people into salvation, holiness, and life in Christ.  
+God’s summons by which He brings people to belong to Christ and to walk in a new life shaped by His purpose.  
 In Paul’s letters, this summons is rooted in God’s purpose and issues in a worthy walk.
 
 ---

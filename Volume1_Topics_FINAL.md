@@ -6,10 +6,10 @@ Review key:
 
 ## Section A — The Human Condition (The Need)
 
-- [ ] V1-01 / PT-26 — Sin
-- [ ] V1-02 / PT-27 — Death (as consequence of sin)
-- [ ] V1-03 / PT-28 — Condemnation
-- [ ] V1-04 / PT-05 — Righteousness (human inability vs God’s standard)
+- [x] V1-01 / PT-26 — Sin
+- [x] V1-02 / PT-27 — Death (as consequence of sin)
+- [x] V1-03 / PT-28 — Condemnation
+- [x] V1-04 / PT-05 — Righteousness (human inability vs God’s standard)
 
 ## Section B — God’s Provision (The Gospel Core)
 
