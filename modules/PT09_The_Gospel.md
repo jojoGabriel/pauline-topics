@@ -17,8 +17,8 @@ validation_status: validated
 
 ## 1. Definition
 
-The good news that God has acted in Jesus Christ to deliver sinners through His death and resurrection.  
-In Paul’s letters, this message centers on Christ’s death, resurrection, and saving power for all who believe.
+The good news God has announced concerning His Son, Jesus Christ.  
+In Paul’s letters, this message centers on Christ’s death for sins, His burial, His resurrection, and its saving power for all who believe.
 
 ---
 
@@ -92,7 +92,7 @@ ellipsis_allowed: false
 
 ## 4. Means / Response
 
-The gospel calls for faith and steadfast reception.
+The gospel is to be believed.
 
 <!--
 id: PT09-Q5
@@ -108,25 +108,9 @@ ellipsis_allowed: false
 > *(Romans 1:16)*  
 > [View on Bible Hub](https://biblehub.com/bsb/romans/1.htm)
 
-<!--
-id: PT09-Q6
-reference: 1 Corinthians 15:1-2
-source: BSB
-source_url: https://biblehub.com/bsb/1_corinthians/15.htm
-type: exact
-ellipsis_allowed: false
--->
-
-> “Now, brothers, I want to remind you of the gospel I preached to you, which you received, and in which you stand firm. By this gospel you are saved, if you hold firmly to the word I preached to you. Otherwise, you have believed in vain.”
->
-> *(1 Corinthians 15:1–2)*  
-> [View on Bible Hub](https://biblehub.com/bsb/1_corinthians/15.htm)
-
----
-
 ## 5. Illustration / Example
 
-Paul’s own ministry was shaped by stewardship of the gospel.
+Paul’s own ministry illustrates his stewardship and proclamation of the gospel.
 
 <!--
 id: PT09-Q7
@@ -146,7 +130,7 @@ ellipsis_allowed: false
 
 ## 6. Result / Outcome
 
-The gospel bears fruit and saves those who believe.
+The gospel bears fruit and brings people into hope through Christ.
 
 <!--
 id: PT09-Q8
@@ -168,8 +152,8 @@ ellipsis_allowed: false
 
 Paul teaches that the gospel is God’s good news concerning His Son.  
 It centers on Christ’s death for sins and His resurrection.  
-The gospel is God’s power for salvation to everyone who believes.  
-It must be received, held firmly, and never replaced with a distortion.
+This gospel is the word of truth and God’s power for salvation to everyone who believes.  
+It must never be replaced with a distortion.
 
 ---
 
@@ -193,21 +177,21 @@ ellipsis_allowed: false
 
 ## 9. Observation Questions
 
-1. According to [Romans 1:1–4](https://biblehub.com/bsb/romans/1.htm), what is the gospel about?
-2. What do [1 Corinthians 15:1–4](https://biblehub.com/bsb/1_corinthians/15.htm) and [Romans 1:16](https://biblehub.com/bsb/romans/1.htm) show about the gospel’s content and power?
-3. How does [Galatians 1:6–7](https://biblehub.com/bsb/galatians/1.htm) warn against distortion of the gospel?
+1. According to [Romans 1:1–4](https://biblehub.com/bsb/romans/1.htm), what does Paul say the gospel concerns?
+2. What does [1 Corinthians 15:3–4](https://biblehub.com/bsb/1_corinthians/15.htm) include in the gospel as of first importance?
+3. How does [Galatians 1:6–7](https://biblehub.com/bsb/galatians/1.htm) describe a distorted gospel?
 
 ---
 
 ## 10. Reflection Questions
 
-1. Why is it important that the gospel is God’s message rather than a human invention?
+1. Why does it matter that the gospel is news about what God has done in His Son rather than advice about what people must do?
 2. What stands out to you about the gospel being both historical news and saving power?
-3. How does Paul’s urgency in [1 Corinthians 9:16](https://biblehub.com/bsb/1_corinthians/9.htm) challenge your view of the gospel?
+3. Why is distortion of the gospel so serious in Paul’s letters?
 
 ---
 
 ## 11. Application Questions
 
-1. How should the gospel shape the way you view your salvation and daily life?
-2. Where do you most need to hold more firmly to the true gospel rather than settling for distortions?
+1. How should the true gospel shape the way you think about Jesus Christ and what God has done through Him?
+2. Where do you see substitutes for the true gospel competing for your trust?
