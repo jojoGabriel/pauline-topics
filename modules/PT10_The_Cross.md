@@ -92,7 +92,7 @@ ellipsis_allowed: false
 
 ## 4. Means / Response
 
-Paul calls believers to boast in the cross and live in its reality.
+Paul calls believers to boast in the cross.
 
 <!--
 id: PT10-Q5
@@ -107,22 +107,6 @@ ellipsis_allowed: false
 >
 > *(Galatians 6:14)*  
 > [View on Bible Hub](https://biblehub.com/bsb/galatians/6.htm)
-
-<!--
-id: PT10-Q6
-reference: Galatians 3:1
-source: BSB
-source_url: https://biblehub.com/bsb/galatians/3.htm
-type: exact
-ellipsis_allowed: false
--->
-
-> “O foolish Galatians! Who has bewitched you? Before your very eyes Jesus Christ was clearly portrayed as crucified.”
->
-> *(Galatians 3:1)*  
-> [View on Bible Hub](https://biblehub.com/bsb/galatians/3.htm)
-
----
 
 ## 5. Illustration / Example
 
