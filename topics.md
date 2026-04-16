@@ -13,8 +13,8 @@ Use volume planning files only to determine generation order for a specific volu
 - [ ] PT-06 Redemption
 - [ ] PT-07 Reconciliation
 - [ ] PT-08 Atonement (through Christ)
-- [ ] PT-09 The Gospel
-- [ ] PT-10 The Cross
+- [x] PT-09 The Gospel
+- [x] PT-10 The Cross
 - [ ] PT-11 Resurrection
 - [ ] PT-12 Union with Christ
 - [ ] PT-13 New Creation

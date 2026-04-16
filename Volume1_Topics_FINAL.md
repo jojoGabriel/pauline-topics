@@ -13,8 +13,8 @@ Review key:
 
 ## Section B — God’s Provision (The Gospel Core)
 
-- [ ] V1-05 / PT-09 — The Gospel
-- [ ] V1-06 / PT-10 — The Cross
+- [x] V1-05 / PT-09 — The Gospel
+- [x] V1-06 / PT-10 — The Cross
 - [ ] V1-07 / PT-06 — Redemption
 - [ ] V1-08 / PT-07 — Reconciliation
 - [ ] V1-09 / PT-08 — Atonement (through Christ)
