@@ -3,7 +3,7 @@ module_id: PT06
 title: Redemption
 author_scope: Pauline only
 text_basis: BSB
-status: draft
+status: done
 validation_status: validated
 ---
 

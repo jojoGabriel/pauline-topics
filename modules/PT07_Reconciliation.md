@@ -3,7 +3,7 @@ module_id: PT07
 title: Reconciliation
 author_scope: Pauline only
 text_basis: BSB
-status: draft
+status: done
 validation_status: validated
 ---
 
@@ -209,5 +209,5 @@ ellipsis_allowed: false
 
 ## 11. Application Questions
 
-1. How should reconciliation with God shape the way you think about your relationship to Him?
-2. Where do you most need to remember that God has acted in Christ to bring enemies back to Himself?
+1. How should being reconciled to God shape the way you think about your relationship with Him?
+2. In what area of your life do you most need to remember that, through Christ, God brings people back into a right relationship with Himself?
