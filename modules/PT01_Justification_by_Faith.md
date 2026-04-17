@@ -210,4 +210,4 @@ ellipsis_allowed: false
 ## 11. Application Questions
 
 1. How should justification by faith shape the way you think about your standing before God?
-2. Where do you most need to stop seeking acceptance before God through your own performance and rest in the righteousness He gives through Christ?
+2. Where do you most need to stop trying to earn acceptance before God and rest in the righteousness He gives through Christ?

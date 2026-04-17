@@ -210,7 +210,7 @@ ellipsis_allowed: false
 
 1. According to [2 Timothy 1:9](https://biblehub.com/bsb/2_timothy/1.htm) and [Romans 8:28](https://biblehub.com/bsb/romans/8.htm), what is God’s calling rooted in?
 2. What do [Romans 1:6–7](https://biblehub.com/bsb/romans/1.htm) and [1 Corinthians 1:9](https://biblehub.com/bsb/1_corinthians/1.htm) show about what believers are called into?
-3. How do [Ephesians 4:1–4](https://biblehub.com/bsb/ephesians/4.htm) describe the believer’s response to calling?
+3. According to [Ephesians 4:1–4](https://biblehub.com/bsb/ephesians/4.htm), how should believers respond to God's calling?
 
 ---
 
@@ -218,7 +218,7 @@ ellipsis_allowed: false
 
 1. Why is it important that God’s calling is not because of our works?
 2. What stands out to you about calling involving both present holiness and future hope?
-3. How does calling encourage steadiness in ordinary life?
+3. How does God's calling help you stay faithful in everyday life?
 
 ---
 

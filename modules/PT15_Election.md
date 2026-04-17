@@ -218,11 +218,11 @@ ellipsis_allowed: false
 
 1. Why is it important that election points to God’s initiative rather than human merit?
 2. What stands out to you about election being connected to holiness and salvation, not merely privilege?
-3. How does the doctrine of election produce humility rather than boasting?
+3. How should the doctrine of election lead to humility instead of pride?
 
 ---
 
 ## 11. Application Questions
 
-1. How should God’s gracious choosing shape your gratitude and humility?
+1. How should God's choosing shape your gratitude and humility?
 2. How should the assurance of God’s purpose steady you in times of uncertainty?

@@ -165,6 +165,10 @@ Each module MUST follow this exact structure:
 - Keep observation questions explicitly tied to cited passages
 - Avoid duplicate questions across observation, reflection, and application sections
 - Keep each question anchored to the module’s own center of gravity rather than drifting into a neighboring topic
+- Prefer short, direct questions written in plain English
+- Write questions so a non-native English reader can follow them on the first read
+- Avoid stacked abstractions, long multi-clause phrasing, and uncommon academic wording when simpler wording will do
+- Prefer concrete wording such as `people`, `what God has done`, and `what the passage says` when those are accurate
 
 ---
 
@@ -210,6 +214,7 @@ Allowed use:
 - identify potentially opaque phrases such as `reign in life`, `peace with God`, `redemption`, `access`, or `gift of righteousness`
 - confirm where a new reader may miss the force of Paul’s imagery or argument
 - rewrite nearby explanatory prose or questions in simpler language while staying anchored to the cited Pauline text
+- when revising questions for clarity, keep the theology and text-grounding intact while making the wording shorter and easier to process
 
 Not allowed:
 

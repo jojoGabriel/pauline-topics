@@ -196,7 +196,7 @@ ellipsis_allowed: false
 
 1. According to [1 Corinthians 1:18](https://biblehub.com/bsb/1_corinthians/1.htm) and [Ephesians 2:12](https://biblehub.com/bsb/ephesians/2.htm), what condition makes salvation necessary?
 2. What do [Titus 3:5](https://biblehub.com/bsb/titus/3.htm) and [2 Timothy 1:9](https://biblehub.com/bsb/2_timothy/1.htm) say about who saves and on what basis?
-3. How do [Romans 10:9–10](https://biblehub.com/bsb/romans/10.htm) and [1 Timothy 1:15–16](https://biblehub.com/bsb/1_timothy/1.htm) clarify how salvation is received and displayed?
+3. How do [Romans 10:9–10](https://biblehub.com/bsb/romans/10.htm) and [1 Timothy 1:15–16](https://biblehub.com/bsb/1_timothy/1.htm) help show how salvation is received and seen in a person's life?
 
 ---
 

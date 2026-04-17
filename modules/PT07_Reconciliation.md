@@ -193,21 +193,21 @@ ellipsis_allowed: false
 
 ## 9. Observation Questions
 
-1. According to [Romans 5:10](https://biblehub.com/bsb/romans/5.htm) and [Colossians 1:21](https://biblehub.com/bsb/colossians/1.htm), what was humanity’s condition before reconciliation?
-2. What do [2 Corinthians 5:18–19](https://biblehub.com/bsb/2_corinthians/5.htm) and [Colossians 1:20](https://biblehub.com/bsb/colossians/1.htm) say God did through Christ?
-3. In [Colossians 1:22](https://biblehub.com/bsb/colossians/1.htm), what is the result of reconciliation?
+1. According to [Romans 5:10](https://biblehub.com/bsb/romans/5.htm) and [Colossians 1:21](https://biblehub.com/bsb/colossians/1.htm), what was people's condition before they were reconciled to God?
+2. According to [2 Corinthians 5:18–19](https://biblehub.com/bsb/2_corinthians/5.htm) and [Colossians 1:20](https://biblehub.com/bsb/colossians/1.htm), what did God do through Christ?
+3. In [Colossians 1:22](https://biblehub.com/bsb/colossians/1.htm), what does reconciliation lead to?
 
 ---
 
 ## 10. Reflection Questions
 
-1. Why is it significant that reconciliation begins with God’s action rather than ours?
-2. What stands out to you about reconciliation being described as peace through the blood of Christ’s cross?
-3. How does Paul’s appeal in [2 Corinthians 5:20](https://biblehub.com/bsb/2_corinthians/5.htm) shape the urgency of the gospel?
+1. Why is it important that reconciliation begins with what God has done, not with what we do?
+2. What stands out to you about Paul describing reconciliation as peace made through Christ's blood on the cross?
+3. How does Paul's appeal in [2 Corinthians 5:20](https://biblehub.com/bsb/2_corinthians/5.htm) show the urgency of the gospel?
 
 ---
 
 ## 11. Application Questions
 
 1. How should being reconciled to God shape the way you think about your relationship with Him?
-2. In what area of your life do you most need to remember that, through Christ, God brings people back into a right relationship with Himself?
+2. In what area of your life do you most need to remember that, through Christ, God brings you into a right relationship with Himself?

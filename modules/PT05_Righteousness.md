@@ -196,7 +196,7 @@ ellipsis_allowed: false
 
 ## 9. Observation Questions
 
-1. According to [Romans 3:10](https://biblehub.com/bsb/romans/3.htm) and [Romans 3:20](https://biblehub.com/bsb/romans/3.htm), what is humanity’s problem regarding righteousness?
+1. According to [Romans 3:10](https://biblehub.com/bsb/romans/3.htm) and [Romans 3:20](https://biblehub.com/bsb/romans/3.htm), what problem do people have when it comes to righteousness?
 2. What do [Romans 3:21–22](https://biblehub.com/bsb/romans/3.htm) and [Romans 10:3–4](https://biblehub.com/bsb/romans/10.htm) show about God’s righteousness and human attempts to establish our own?
 3. How does [Philippians 3:9](https://biblehub.com/bsb/philippians/3.htm) illustrate Paul’s teaching?
 

@@ -216,9 +216,9 @@ ellipsis_allowed: false
 
 ## 10. Reflection Questions
 
-1. Why is union with Christ foundational to so many other Pauline themes?
+1. Why is union with Christ basic to so many other themes in Paul's letters?
 2. What stands out to you about Paul saying “Christ lives in me”?
-3. How does union with Christ move salvation from being merely external to deeply personal?
+3. How does union with Christ show that salvation is not only outward, but also deeply personal?
 
 ---
 

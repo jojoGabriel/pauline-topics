@@ -218,7 +218,7 @@ ellipsis_allowed: false
 
 1. Why does Paul so often contrast faith with works of the Law?
 2. What stands out to you about Paul saying the Christian life is lived by faith in the Son of God?
-3. How does faith bring both humility and confidence at the same time?
+3. How does faith make a person both humble and confident at the same time?
 
 ---
 

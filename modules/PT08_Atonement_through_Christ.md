@@ -201,9 +201,9 @@ ellipsis_allowed: false
 
 ## 10. Reflection Questions
 
-1. Why is it important that Paul ties atonement to Christ’s blood and not merely to moral example?
+1. Why is it important that Paul ties atonement to Christ’s blood and not just to Christ’s example?
 2. What stands out to you about God addressing both sin and wrath through Christ?
-3. How does atonement help explain how God deals with guilt and wrath through Christ?
+3. How does atonement help you understand how God deals with guilt and wrath through Christ?
 
 ---
 

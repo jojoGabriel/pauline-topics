@@ -62,6 +62,8 @@ The scripts are designed to catch structural, formatting, overlap, and consisten
 
 - `## 9–11. Questions`
   Do the questions progress naturally from observation to reflection to application?
+  Could a non-native English reader understand each question on the first read without needing to unpack abstract wording?
+  If a question feels dense, can it be shortened or rewritten with more common words while keeping the same meaning?
 
 - `## 12. Broader Scripture Connections (Optional)`
   If present, are the references genuinely illuminating and not distracting or excessive?

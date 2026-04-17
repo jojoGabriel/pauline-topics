@@ -229,8 +229,8 @@ ellipsis_allowed: false
 
 ## 10. Reflection Questions
 
-1. Why is it important to see condemnation as a judicial reality in Paul’s teaching, not just a feeling of guilt?
-2. How does [Romans 8:3–4](https://biblehub.com/bsb/romans/8.htm) deepen your understanding of how God deals with condemnation?
+1. Why is it important to see condemnation in Paul’s teaching as God’s judgment, not just a feeling of guilt?
+2. How does [Romans 8:3–4](https://biblehub.com/bsb/romans/8.htm) help you understand how God deals with condemnation?
 3. What stands out to you about Paul’s confidence that no one can condemn those for whom Christ intercedes?
 
 ---

@@ -196,7 +196,7 @@ ellipsis_allowed: false
 
 1. What do [Romans 3:24](https://biblehub.com/bsb/romans/3.htm) and [Ephesians 1:7](https://biblehub.com/bsb/ephesians/1.htm) say redemption is rooted in?
 2. According to [Colossians 1:13–14](https://biblehub.com/bsb/colossians/1.htm), what has God done for believers?
-3. How do [Ephesians 1:13–14](https://biblehub.com/bsb/ephesians/1.htm) and [Romans 8:23](https://biblehub.com/bsb/romans/8.htm) show that believers already have the Spirit while still awaiting the full redemption to come?
+3. How do [Ephesians 1:13–14](https://biblehub.com/bsb/ephesians/1.htm) and [Romans 8:23](https://biblehub.com/bsb/romans/8.htm) show that believers already have the Spirit but still wait for full redemption?
 
 ---
 
@@ -210,5 +210,5 @@ ellipsis_allowed: false
 
 ## 11. Application Questions
 
-1. How should redemption shape the way you think about Christ delivering you from bondage?
+1. How should redemption shape the way you think about Christ setting you free from bondage?
 2. How should the hope of final redemption shape your endurance in the present?
