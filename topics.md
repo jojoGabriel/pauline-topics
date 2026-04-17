@@ -11,7 +11,7 @@ Use volume planning files only to determine generation order for a specific volu
 - [ ] PT-04 Salvation
 - [x] PT-05 Righteousness
 - [x] PT-06 Redemption
-- [ ] PT-07 Reconciliation
+- [x] PT-07 Reconciliation
 - [ ] PT-08 Atonement (through Christ)
 - [x] PT-09 The Gospel
 - [x] PT-10 The Cross
