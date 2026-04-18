@@ -203,7 +203,7 @@ ellipsis_allowed: false
 ## 10. Reflection Questions
 
 1. Why is it important that grace is described as God’s gift rather than a reward?
-2. How does Paul’s testimony in [1 Corinthians 15:10](https://biblehub.com/bsb/1_corinthians/15.htm) deepen your understanding of grace?
+2. How does Paul’s testimony in [1 Corinthians 15:10](https://biblehub.com/bsb/1_corinthians/15.htm) help you understand grace better?
 3. What stands out to you about grace not only saving but also instructing believers?
 
 ---
@@ -211,4 +211,4 @@ ellipsis_allowed: false
 ## 11. Application Questions
 
 1. Where do you most need to remember that God’s grace is not based on your performance?
-2. How should grace shape the way you respond to your own weakness and to others?
+2. How should grace shape the way you respond to your own weakness and to the weakness of others?

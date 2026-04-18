@@ -17,7 +17,7 @@ Review key:
 - [x] V1-06 / PT-10 — The Cross
 - [x] V1-07 / PT-06 — Redemption
 - [x] V1-08 / PT-07 — Reconciliation
-- [ ] V1-09 / PT-08 — Atonement (through Christ)
+- [x] V1-09 / PT-08 — Atonement (through Christ)
 - [ ] V1-10 / PT-22 — Mercy
 - [ ] V1-11 / PT-23 — Love of God
 

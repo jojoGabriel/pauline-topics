@@ -196,7 +196,7 @@ ellipsis_allowed: false
 
 ## 9. Observation Questions
 
-1. What do [Ephesians 1:7](https://biblehub.com/bsb/ephesians/1.htm) and [Colossians 1:13–14](https://biblehub.com/bsb/colossians/1.htm) say forgiveness is grounded in?
+1. What do [Ephesians 1:7](https://biblehub.com/bsb/ephesians/1.htm) and [Colossians 1:13–14](https://biblehub.com/bsb/colossians/1.htm) say forgiveness comes from?
 2. According to [Colossians 2:13](https://biblehub.com/bsb/colossians/2.htm), what has God done for those who were dead in trespasses?
 3. What do [Ephesians 4:32](https://biblehub.com/bsb/ephesians/4.htm) and [Colossians 3:13](https://biblehub.com/bsb/colossians/3.htm) say forgiven people should do?
 

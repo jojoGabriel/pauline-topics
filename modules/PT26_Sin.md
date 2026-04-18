@@ -231,7 +231,7 @@ ellipsis_allowed: false
 
 ## 10. Reflection Questions
 
-1. Why is it important that Paul describes sin as both guilt before God and a ruling power?
+1. Why is it important that Paul describes sin as both guilt before God and a power that rules?
 2. How does [Romans 8:3](https://biblehub.com/bsb/romans/8.htm) shape your understanding of how God deals with sin?
 3. What stands out to you about Paul’s statement in [Romans 6:14](https://biblehub.com/bsb/romans/6.htm) that sin shall not be your master?
 

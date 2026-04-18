@@ -222,14 +222,14 @@ ellipsis_allowed: false
 ## 9. Observation Questions
 
 1. According to [Romans 2:5](https://biblehub.com/bsb/romans/2.htm) and [Romans 3:19](https://biblehub.com/bsb/romans/3.htm), what does Paul say about human accountability before God?
-2. What do [Romans 5:16](https://biblehub.com/bsb/romans/5.htm) and [Romans 5:18](https://biblehub.com/bsb/romans/5.htm) show about the relationship between Adam’s trespass and condemnation?
+2. What do [Romans 5:16](https://biblehub.com/bsb/romans/5.htm) and [Romans 5:18](https://biblehub.com/bsb/romans/5.htm) show about how Adam’s trespass leads to condemnation?
 3. In [Romans 8:1](https://biblehub.com/bsb/romans/8.htm) and [Romans 8:34](https://biblehub.com/bsb/romans/8.htm), how does Paul describe the believer’s position in Christ?
 
 ---
 
 ## 10. Reflection Questions
 
-1. Why is it important to see condemnation in Paul’s teaching as God’s judgment, not just a feeling of guilt?
+1. Why is it important to see condemnation as God’s judgment, not only as a feeling of guilt?
 2. How does [Romans 8:3–4](https://biblehub.com/bsb/romans/8.htm) help you understand how God deals with condemnation?
 3. What stands out to you about Paul’s confidence that no one can condemn those for whom Christ intercedes?
 

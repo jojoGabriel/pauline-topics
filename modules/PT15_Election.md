@@ -208,9 +208,9 @@ ellipsis_allowed: false
 
 ## 9. Observation Questions
 
-1. According to [Romans 9:11](https://biblehub.com/bsb/romans/9.htm) and [Romans 11:5–6](https://biblehub.com/bsb/romans/11.htm), what does Paul say election depends on?
+1. According to [Romans 9:11](https://biblehub.com/bsb/romans/9.htm) and [Romans 11:5–6](https://biblehub.com/bsb/romans/11.htm), what does Paul say election depends on (look for whether it depends on God’s purpose and grace or on human effort)?
 2. What do [Ephesians 1:4–5](https://biblehub.com/bsb/ephesians/1.htm) and [2 Thessalonians 2:13](https://biblehub.com/bsb/2_thessalonians/2.htm) show about God’s choosing?
-3. How does [Romans 8:33](https://biblehub.com/bsb/romans/8.htm) connect election and assurance?
+3. How does [Romans 8:33](https://biblehub.com/bsb/romans/8.htm) link election with assurance?
 
 ---
 
@@ -218,7 +218,7 @@ ellipsis_allowed: false
 
 1. Why is it important that election points to God’s initiative rather than human merit?
 2. What stands out to you about election being connected to holiness and salvation, not merely privilege?
-3. How should the doctrine of election lead to humility instead of pride?
+3. How should the teaching of election lead to humility instead of pride?
 
 ---
 

@@ -202,7 +202,7 @@ ellipsis_allowed: false
 
 ## 10. Reflection Questions
 
-1. Why is mercy such a humbling doctrine in Paul’s teaching?
+1. Why does mercy humble us so deeply in Paul’s teaching?
 2. What stands out to you about God showing mercy to the undeserving?
 3. How does God’s mercy reshape the way you see both salvation and obedience?
 

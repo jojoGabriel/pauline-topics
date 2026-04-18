@@ -193,7 +193,7 @@ ellipsis_allowed: false
 
 ## 9. Observation Questions
 
-1. According to [Romans 3:25](https://biblehub.com/bsb/romans/3.htm), how does Paul describe Christ’s work?
+1. According to [Romans 3:25](https://biblehub.com/bsb/romans/3.htm), how does Paul describe Christ’s work (look for the words Paul uses for Christ’s sacrifice)?
 2. What do [Romans 5:8–9](https://biblehub.com/bsb/romans/5.htm) and [Romans 8:3](https://biblehub.com/bsb/romans/8.htm) say God did about sin?
 3. How does [2 Corinthians 5:21](https://biblehub.com/bsb/2_corinthians/5.htm) deepen Paul’s teaching on atonement?
 
@@ -202,7 +202,7 @@ ellipsis_allowed: false
 ## 10. Reflection Questions
 
 1. Why is it important that Paul ties atonement to Christ’s blood and not just to Christ’s example?
-2. What stands out to you about God addressing both sin and wrath through Christ?
+2. What stands out to you about God dealing with both sin and wrath through Christ?
 3. How does atonement help you understand how God deals with guilt and wrath through Christ?
 
 ---

@@ -197,8 +197,8 @@ ellipsis_allowed: false
 ## 9. Observation Questions
 
 1. According to [Romans 3:10](https://biblehub.com/bsb/romans/3.htm) and [Romans 3:20](https://biblehub.com/bsb/romans/3.htm), what problem do people have when it comes to righteousness?
-2. What do [Romans 3:21–22](https://biblehub.com/bsb/romans/3.htm) and [Romans 10:3–4](https://biblehub.com/bsb/romans/10.htm) show about God’s righteousness and human attempts to establish our own?
-3. How does [Philippians 3:9](https://biblehub.com/bsb/philippians/3.htm) illustrate Paul’s teaching?
+2. What do [Romans 3:21–22](https://biblehub.com/bsb/romans/3.htm) and [Romans 10:3–4](https://biblehub.com/bsb/romans/10.htm) show about God’s righteousness and people trying to make their own?
+3. How does [Philippians 3:9](https://biblehub.com/bsb/philippians/3.htm) show Paul’s point?
 
 ---
 
@@ -206,7 +206,7 @@ ellipsis_allowed: false
 
 1. Why is it important that righteousness is described as something revealed and given by God?
 2. What stands out to you about Paul rejecting “my own righteousness from the law” in [Philippians 3:9](https://biblehub.com/bsb/philippians/3.htm)?
-3. How does [Romans 5:17](https://biblehub.com/bsb/romans/5.htm) help you understand what it means to live under Christ’s gift of righteousness rather than under death’s rule?
+3. How does [Romans 5:17](https://biblehub.com/bsb/romans/5.htm) help you understand what it means to live under Christ’s gift of righteousness instead of under death’s rule?
 
 ---
 

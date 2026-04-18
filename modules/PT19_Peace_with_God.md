@@ -202,7 +202,7 @@ ellipsis_allowed: false
 
 ## 10. Reflection Questions
 
-1. Why is peace with God more than a feeling of calm in Paul’s teaching?
+1. Why is peace with God more than a feeling of calm?
 2. What stands out to you about Christ Himself being called our peace?
 3. How does peace with God change the way you understand your relationship to Him?
 

@@ -209,8 +209,8 @@ ellipsis_allowed: false
 ## 9. Observation Questions
 
 1. According to [Romans 1:16–17](https://biblehub.com/bsb/romans/1.htm), what does the gospel reveal and how is it received?
-2. What do [Romans 4:16](https://biblehub.com/bsb/romans/4.htm) and [Ephesians 2:8](https://biblehub.com/bsb/ephesians/2.htm) show about faith and promise?
-3. How do [2 Timothy 1:12](https://biblehub.com/bsb/2_timothy/1.htm) and [Galatians 3:6–7](https://biblehub.com/bsb/galatians/3.htm) clarify what faith looks like?
+2. What do [Romans 4:16](https://biblehub.com/bsb/romans/4.htm) and [Ephesians 2:8](https://biblehub.com/bsb/ephesians/2.htm) show about faith and God’s promise?
+3. How do [2 Timothy 1:12](https://biblehub.com/bsb/2_timothy/1.htm) and [Galatians 3:6–7](https://biblehub.com/bsb/galatians/3.htm) show what faith looks like?
 
 ---
 
@@ -218,11 +218,11 @@ ellipsis_allowed: false
 
 1. Why does Paul so often contrast faith with works of the Law?
 2. What stands out to you about Paul saying the Christian life is lived by faith in the Son of God?
-3. How does faith make a person both humble and confident at the same time?
+3. How can faith make a person both humble and confident at the same time?
 
 ---
 
 ## 11. Application Questions
 
-1. Where are you most tempted to rely on performance instead of God’s promise?
+1. Where are you most tempted to rely on your performance instead of God’s promise?
 2. How should living by faith shape your response to uncertainty or delay?

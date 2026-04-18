@@ -194,9 +194,9 @@ ellipsis_allowed: false
 
 ## 9. Observation Questions
 
-1. What do [Romans 3:24](https://biblehub.com/bsb/romans/3.htm) and [Ephesians 1:7](https://biblehub.com/bsb/ephesians/1.htm) say redemption is rooted in?
+1. What do [Romans 3:24](https://biblehub.com/bsb/romans/3.htm) and [Ephesians 1:7](https://biblehub.com/bsb/ephesians/1.htm) say redemption comes from?
 2. According to [Colossians 1:13–14](https://biblehub.com/bsb/colossians/1.htm), what has God done for believers?
-3. How do [Ephesians 1:13–14](https://biblehub.com/bsb/ephesians/1.htm) and [Romans 8:23](https://biblehub.com/bsb/romans/8.htm) show that believers already have the Spirit but still wait for full redemption?
+3. How do [Ephesians 1:13–14](https://biblehub.com/bsb/ephesians/1.htm) and [Romans 8:23](https://biblehub.com/bsb/romans/8.htm) show that believers already have the Spirit but still wait for full redemption (look for what believers have now and what they still await)?
 
 ---
 

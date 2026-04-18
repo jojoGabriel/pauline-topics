@@ -23,6 +23,12 @@ The scripts are designed to catch structural, formatting, overlap, and consisten
 
 ## Clarity and Readability
 
+- Target audience:
+  Read the module as material for thoughtful adult learners, including newer believers and non-native English speakers, especially in guided personal or small-group study.
+
+- Stopping rule:
+  If a question is understandable on first read and clearly sends the reader back to the passage, leave it alone.
+
 - Read the definition and summary out loud.
   Do they sound natural, clear, and teachable?
 
@@ -64,6 +70,8 @@ The scripts are designed to catch structural, formatting, overlap, and consisten
   Do the questions progress naturally from observation to reflection to application?
   Could a non-native English reader understand each question on the first read without needing to unpack abstract wording?
   If a question feels dense, can it be shortened or rewritten with more common words while keeping the same meaning?
+  Simplify wording before adding extra explanation.
+  If a question still feels hard to enter, add only a very short starter cue such as `Look for what God does here` or `Look for repeated words`, not a full answer.
 
 - `## 12. Broader Scripture Connections (Optional)`
   If present, are the references genuinely illuminating and not distracting or excessive?

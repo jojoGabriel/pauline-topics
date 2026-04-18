@@ -179,7 +179,7 @@ ellipsis_allowed: false
 
 1. According to [1 Corinthians 1:18](https://biblehub.com/bsb/1_corinthians/1.htm) and [1 Corinthians 1:23](https://biblehub.com/bsb/1_corinthians/1.htm), how is the cross viewed by different people?
 2. What do [Colossians 1:20](https://biblehub.com/bsb/colossians/1.htm) and [Ephesians 2:16](https://biblehub.com/bsb/ephesians/2.htm) say God accomplished through the cross?
-3. How does [Colossians 2:14–15](https://biblehub.com/bsb/colossians/2.htm) describe the cross’s effect on debt and hostile powers?
+3. How does [Colossians 2:14–15](https://biblehub.com/bsb/colossians/2.htm) describe what the cross does to debt and hostile powers?
 
 ---
 

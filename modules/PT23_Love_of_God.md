@@ -218,7 +218,7 @@ ellipsis_allowed: false
 
 1. Why is it important that God’s love is demonstrated in action rather than merely stated?
 2. What stands out to you about God’s love reaching sinners while they were still powerless?
-3. How does the inseparability of God’s love in [Romans 8:38–39](https://biblehub.com/bsb/romans/8.htm) strengthen your assurance?
+3. How does the inseparability of God’s love in [Romans 8:38–39](https://biblehub.com/bsb/romans/8.htm) strengthen your sense of security in Christ?
 
 ---
 

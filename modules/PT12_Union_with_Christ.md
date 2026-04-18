@@ -216,7 +216,7 @@ ellipsis_allowed: false
 
 ## 10. Reflection Questions
 
-1. Why is union with Christ basic to so many other themes in Paul's letters?
+1. Why is union with Christ connected to so many other themes in Paul's letters?
 2. What stands out to you about Paul saying “Christ lives in me”?
 3. How does union with Christ show that salvation is not only outward, but also deeply personal?
 
@@ -225,4 +225,4 @@ ellipsis_allowed: false
 ## 11. Application Questions
 
 1. How should your union with Christ shape the way you think about yourself today?
-2. Where do you most need to live more consciously from your life in Christ?
+2. Where do you most need to live more consciously as someone whose life is in Christ?

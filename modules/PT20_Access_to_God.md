@@ -204,7 +204,7 @@ ellipsis_allowed: false
 
 1. Why is access to God such a significant part of salvation in Paul’s teaching?
 2. What stands out to you about access being both bold and humble at the same time?
-3. How does access to the Father reshape your view of prayer and worship?
+3. How does access to the Father change the way you think about prayer and worship?
 
 ---
 

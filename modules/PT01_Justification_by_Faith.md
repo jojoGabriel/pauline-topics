@@ -194,8 +194,8 @@ ellipsis_allowed: false
 ## 9. Observation Questions
 
 1. According to [Romans 3:20](https://biblehub.com/bsb/romans/3.htm) and [Romans 3:23](https://biblehub.com/bsb/romans/3.htm), what problem does Paul say all people share?
-2. What do [Romans 3:21–24](https://biblehub.com/bsb/romans/3.htm) and [Galatians 2:16](https://biblehub.com/bsb/galatians/2.htm) say about how justification is given and received?
-3. How does [Romans 4:3](https://biblehub.com/bsb/romans/4.htm) support Paul’s teaching?
+2. What do [Romans 3:21–24](https://biblehub.com/bsb/romans/3.htm) and [Galatians 2:16](https://biblehub.com/bsb/galatians/2.htm) say about how God justifies people and how they receive it?
+3. How does [Romans 4:3](https://biblehub.com/bsb/romans/4.htm) support Paul’s point?
 
 ---
 
@@ -203,11 +203,11 @@ ellipsis_allowed: false
 
 1. Why is it important that Paul contrasts justification by faith with works of the Law?
 2. What stands out to you about Paul describing justification as a free gift of grace?
-3. How does [Romans 5:1](https://biblehub.com/bsb/romans/5.htm) deepen your understanding of the result of justification?
+3. How does [Romans 5:1](https://biblehub.com/bsb/romans/5.htm) help you understand the result of justification better?
 
 ---
 
 ## 11. Application Questions
 
 1. How should justification by faith shape the way you think about your standing before God?
-2. Where do you most need to stop trying to earn acceptance before God and rest in the righteousness He gives through Christ?
+2. Where do you most need to stop trying to earn acceptance before God and rest in what He gives through Christ?

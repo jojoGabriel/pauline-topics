@@ -216,8 +216,8 @@ ellipsis_allowed: false
 ## 10. Reflection Questions
 
 1. Why is eternal life described as God’s gift rather than human achievement?
-2. What stands out to you about eternal life being both present hope and future outcome?
-3. How does eternal life reshape the way you think about obedience, suffering, and endurance?
+2. What stands out to you about eternal life being a hope we have now and a future we still await?
+3. How does eternal life change the way you think about obedience, suffering, and endurance?
 
 ---
 

@@ -195,16 +195,16 @@ ellipsis_allowed: false
 ## 9. Observation Questions
 
 1. According to [1 Corinthians 1:18](https://biblehub.com/bsb/1_corinthians/1.htm) and [Ephesians 2:12](https://biblehub.com/bsb/ephesians/2.htm), what condition makes salvation necessary?
-2. What do [Titus 3:5](https://biblehub.com/bsb/titus/3.htm) and [2 Timothy 1:9](https://biblehub.com/bsb/2_timothy/1.htm) say about who saves and on what basis?
-3. How do [Romans 10:9–10](https://biblehub.com/bsb/romans/10.htm) and [1 Timothy 1:15–16](https://biblehub.com/bsb/1_timothy/1.htm) help show how salvation is received and seen in a person's life?
+2. What do [Titus 3:5](https://biblehub.com/bsb/titus/3.htm) and [2 Timothy 1:9](https://biblehub.com/bsb/2_timothy/1.htm) say about who saves and why?
+3. How do [Romans 10:9–10](https://biblehub.com/bsb/romans/10.htm) and [1 Timothy 1:15–16](https://biblehub.com/bsb/1_timothy/1.htm) show how salvation is received and seen in someone’s life (look for what people are called to believe and what Paul says his own life shows)?
 
 ---
 
 ## 10. Reflection Questions
 
 1. Why is it important that Paul describes salvation as God’s work rather than human achievement?
-2. What stands out to you about Paul presenting salvation as both present rescue and future deliverance?
-3. How does Paul’s own example in [1 Timothy 1:15–16](https://biblehub.com/bsb/1_timothy/1.htm) deepen your understanding of salvation?
+2. What stands out to you about Paul presenting salvation as rescue now and final rescue still to come?
+3. How does Paul’s own example in [1 Timothy 1:15–16](https://biblehub.com/bsb/1_timothy/1.htm) help you understand salvation better?
 
 ---
 

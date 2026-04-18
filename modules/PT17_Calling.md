@@ -208,7 +208,7 @@ ellipsis_allowed: false
 
 ## 9. Observation Questions
 
-1. According to [2 Timothy 1:9](https://biblehub.com/bsb/2_timothy/1.htm) and [Romans 8:28](https://biblehub.com/bsb/romans/8.htm), what is God’s calling rooted in?
+1. According to [2 Timothy 1:9](https://biblehub.com/bsb/2_timothy/1.htm) and [Romans 8:28](https://biblehub.com/bsb/romans/8.htm), what is God’s calling based on?
 2. What do [Romans 1:6–7](https://biblehub.com/bsb/romans/1.htm) and [1 Corinthians 1:9](https://biblehub.com/bsb/1_corinthians/1.htm) show about what believers are called into?
 3. According to [Ephesians 4:1–4](https://biblehub.com/bsb/ephesians/4.htm), how should believers respond to God's calling?
 
@@ -225,4 +225,4 @@ ellipsis_allowed: false
 ## 11. Application Questions
 
 1. How should God’s calling shape the way you think about your life and purpose?
-2. Where do you most need to walk more worthily of the calling you have received?
+2. Where do you most need to live in a way that fits the calling you have received?
