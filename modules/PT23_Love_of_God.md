@@ -131,37 +131,23 @@ Paul describes God’s love as the secure environment of the believer’s life.
 
 <!--
 id: PT23-Q7
-reference: Romans 8:37
+reference: Romans 8:37-39
 source: BSB
 source_url: https://biblehub.com/bsb/romans/8.htm
 type: exact
 ellipsis_allowed: false
 -->
 
-> “No, in all these things we are more than conquerors through Him who loved us.”
+> “No, in all these things we are more than conquerors through Him who loved us. For I am convinced that neither death nor life, neither angels nor principalities, neither the present nor the future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord.”
 >
-> *(Romans 8:37)*  
-> [View on Bible Hub](https://biblehub.com/bsb/romans/8.htm)
-
-<!--
-id: PT23-Q8
-reference: Romans 8:38-39
-source: BSB
-source_url: https://biblehub.com/bsb/romans/8.htm
-type: exact
-ellipsis_allowed: false
--->
-
-> “For I am convinced that neither death nor life, neither angels nor principalities, neither the present nor the future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord.”
->
-> *(Romans 8:38–39)*  
+> *(Romans 8:37–39)*  
 > [View on Bible Hub](https://biblehub.com/bsb/romans/8.htm)
 
 ---
 
 ## 6. Result / Outcome
 
-God’s love gives assurance, endurance, and a pattern for walking in love.
+God’s love remains the ongoing portion and blessing of believers in Christ.
 
 <!--
 id: PT23-Q9

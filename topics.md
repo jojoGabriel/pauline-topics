@@ -5,8 +5,8 @@ Use volume planning files only to determine generation order for a specific volu
 
 ## Core Salvation & Theology (1–25)
 
-- [ ] PT-01 Justification by Faith
-- [ ] PT-02 Grace
+- [x] PT-01 Justification by Faith
+- [x] PT-02 Grace
 - [ ] PT-03 Faith
 - [ ] PT-04 Salvation
 - [x] PT-05 Righteousness
@@ -26,8 +26,8 @@ Use volume planning files only to determine generation order for a specific volu
 - [ ] PT-19 Peace with God
 - [ ] PT-20 Access to God
 - [ ] PT-21 Eternal Life
-- [ ] PT-22 Mercy
-- [ ] PT-23 Love of God
+- [x] PT-22 Mercy
+- [x] PT-23 Love of God
 - [ ] PT-24 Knowledge of God
 - [ ] PT-25 Glory of God
 
