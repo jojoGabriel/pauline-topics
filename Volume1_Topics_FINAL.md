@@ -18,7 +18,7 @@ Review key:
 - [x] V1-07 / PT-06 — Redemption
 - [x] V1-08 / PT-07 — Reconciliation
 - [x] V1-09 / PT-08 — Atonement (through Christ)
-- [ ] V1-10 / PT-22 — Mercy
+- [x] V1-10 / PT-22 — Mercy
 - [x] V1-11 / PT-23 — Love of God
 
 ## Section C — Receiving Salvation
