@@ -23,7 +23,7 @@ Review key:
 
 ## Section C — Receiving Salvation
 
-- [ ] V1-12 / PT-04 — Salvation
+- [x] V1-12 / PT-04 — Salvation
 - [x] V1-13 / PT-02 — Grace
 - [ ] V1-14 / PT-03 — Faith
 - [x] V1-15 / PT-01 — Justification by Faith

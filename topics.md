@@ -8,7 +8,7 @@ Use volume planning files only to determine generation order for a specific volu
 - [x] PT-01 Justification by Faith
 - [x] PT-02 Grace
 - [ ] PT-03 Faith
-- [ ] PT-04 Salvation
+- [x] PT-04 Salvation
 - [x] PT-05 Righteousness
 - [x] PT-06 Redemption
 - [x] PT-07 Reconciliation

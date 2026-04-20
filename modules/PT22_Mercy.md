@@ -147,7 +147,7 @@ ellipsis_allowed: true
 
 ## 6. Result / Outcome
 
-Mercy results in salvation, life, and worshipful obedience.
+Mercy brings life to the helpless and produces grateful, worshipful obedience.
 
 <!--
 id: PT22-Q8
@@ -167,10 +167,10 @@ ellipsis_allowed: false
 
 ## 7. Summary
 
-Paul teaches that salvation rests not on human effort but on God’s mercy.  
-God is rich in mercy and acts with compassion toward the undeserving and helpless.  
+Paul teaches that God acts with compassion toward people in guilt, misery, and helplessness.  
+His mercy does not arise from human worth or effort, but from His own pity and purpose.  
 Paul’s own story displays this mercy vividly.  
-Those who receive mercy are called to grateful worship and obedient living.
+Those who receive mercy are called to humble gratitude, worship, and obedient living.
 
 ---
 
@@ -178,17 +178,17 @@ Those who receive mercy are called to grateful worship and obedient living.
 
 <!--
 id: PT22-Q9
-reference: Titus 3:5
+reference: Ephesians 2:4-5
 source: BSB
-source_url: https://biblehub.com/bsb/titus/3.htm
+source_url: https://biblehub.com/bsb/ephesians/2.htm
 type: exact
 ellipsis_allowed: false
 -->
 
-> “He saved us, not by the righteous deeds we had done, but according to His mercy, through the washing of new birth and renewal by the Holy Spirit.”
+> “But because of His great love for us, God, who is rich in mercy, made us alive with Christ even when we were dead in our trespasses. It is by grace you have been saved!”
 >
-> *(Titus 3:5)*  
-> [View on Bible Hub](https://biblehub.com/bsb/titus/3.htm)
+> *(Ephesians 2:4–5)*  
+> [View on Bible Hub](https://biblehub.com/bsb/ephesians/2.htm)
 
 ---
 
@@ -204,7 +204,7 @@ ellipsis_allowed: false
 
 1. Why does mercy humble us so deeply in Paul’s teaching?
 2. What stands out to you about God showing mercy to the undeserving?
-3. How does God’s mercy reshape the way you see both salvation and obedience?
+3. How does God’s mercy reshape the way you see your need for God and your response to Him?
 
 ---
 
